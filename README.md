@@ -8,7 +8,20 @@
 6. `parsed_resume.json` - A sample JSON file describing the extracted data from a single CV PDF.<br>
 7. `Embedding_and_similarity.ipynb` - An IPython Notebook file used for tokenizing, performing embeddings on the obtained JSON files, and calculating cosine similarities.<be>
 ## Models and tools utilized:
-1. `Pyresparser`- A Python library for parsing and extracting information from resumes (CVs). It can extract various details such as the candidate's name, contact information, skills, work experience, education.<br> Additionally, I added my code to extract education details concurrently since, the library coudn't extract the details required in a exact manner.<br>
-2. `SentenceTransformer` - Python library to obtain embeddings for sentences or documents using pre-trained models. The pre trained model I used is `paraphrase-MiniLM-L6-v2`.
+1. `Pyresparser`- A Python library for parsing and extracting information from resumes (CVs). It's a powerful tool designed to efficiently extract essential details from resumes, including:<br>
+
+Candidate's name<br>
+Contact information<br>
+Skills<br>
+Work experience<br>
+Educational background<br>
+In some cases, Pyresparser may not extract education details as accurately as required. To address this limitation, we've included custom code to concurrently extract education details in the desired format.
+
+2. `SentenceTransformer` - A versatile Python library that allows you to obtain embeddings for sentences or entire documents. It leverages pre-trained models to represent text data as dense vectors. One of the models I've used is `paraphrase-MiniLM-L6-v2`, which is particularly effective for various natural language processing tasks.
+
+
+
+
+
 
 
