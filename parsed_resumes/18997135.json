@@ -1,0 +1,47 @@
+{
+    "skills": [
+        "Excel",
+        "Facebook",
+        "Policies",
+        "Word",
+        "Powerpoint",
+        "Microsoft office",
+        "Sales",
+        "Mathematics",
+        "English",
+        "Strategy",
+        "Business issues",
+        "International",
+        "Payroll",
+        "Payments",
+        "Financial models",
+        "Twitter",
+        "Plan",
+        "Information technology",
+        "Analysis",
+        "Health",
+        "Process",
+        "Presentations",
+        "Contracts",
+        "Transactions",
+        "Economics",
+        "Reports",
+        "Travel",
+        "Access"
+    ],
+    "experience": [
+        "Company Name January 2015 to Current Court Appointed Special Advocate",
+        "City , State",
+        "Reviewed documents and records, interviewed the children, family members and professionals in their lives.",
+        "Provided written reports at court hearings."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "APPOINTED SPECIAL ADVOCATE\nSummary\nFinancial professional who is a"
+        }
+    ],
+    "category": "COURT APPOINTED"
+}

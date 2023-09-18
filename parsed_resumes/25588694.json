@@ -1,0 +1,47 @@
+{
+    "skills": [
+        "Editing",
+        "International",
+        "Teaching",
+        "Spanish",
+        "Interactive",
+        "Certification",
+        "Photography"
+    ],
+    "experience": [
+        "Spanish teacher 10/2003 to Current Company Name City , State",
+        "Teach Spanish levels 1A, 1B, II, III.",
+        "Create lessons incorporating Smart board technology.",
+        "Administer the 8th grade State Proficiency Exam.",
+        "Administer the level 3 Spanish Competency Exam."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "TEACHER\nSummary\nFriendly and energetic Spanish teacher with ten years expertise in academic instruction and classroom"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Highlights\nProfessional Certification in Secondary level Spanish\nPermanent Certification in Secondary Inclusive Education\nAccomplishments\nAchieved effective and highly effective status on all APPR evaluations\nHelped more than 15 students reach their IEP goal of graduating with a Regents diploma\nManaged classes of up to 23 students\nChaperoned 25 field trips and after school activities\nDesigned twenty weekly lesson plans focused on age and"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Coached JV girls soccer\nCoached modified boys soccer\nFreshman class advisor\nTalent show coordinator\nEighth grade"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Experience\nSpanish teacher"
+        },
+        {
+            "Degree": "mba",
+            "Institution": "Current\n \nCompany Name\n \nCity\n \n, \nState\nTeach Spanish levels 1A, 1B, II"
+        },
+        {
+            "Degree": "mba",
+            "Institution": "Create lessons incorporating Smart board"
+        }
+    ],
+    "category": "Professional Certification"
+}

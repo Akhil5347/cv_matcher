@@ -1,0 +1,40 @@
+{
+    "skills": [
+        "Design",
+        "Certification",
+        "Technical",
+        "Networking",
+        "Administration",
+        "Sales",
+        "Windows",
+        "Cisco",
+        "Retail",
+        "Technical issues",
+        "Operations",
+        "Installation",
+        "Lan",
+        "Inventory",
+        "Process",
+        "Business management",
+        "Hardware",
+        "Troubleshooting",
+        "Training",
+        "Security",
+        "System"
+    ],
+    "experience": [
+        "Technical Support 01/2005 to 01/2006 Company Name City , State",
+        "I solved problems over the phone with a user of a software package designed to build picture frames.",
+        "Problems included computer based as well as physical problems with design of picture frames.",
+        "I was able to learn how to talk to people over the phone to show them respect and be upbeat and exciting."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "SUPPORT"
+        }
+    ],
+    "category": "I.T. SUPPORT"
+}

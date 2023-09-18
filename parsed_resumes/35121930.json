@@ -1,0 +1,37 @@
+{
+    "skills": [
+        "Safety",
+        "Technical",
+        "Money",
+        "Matrix",
+        "Engineering",
+        "Chemicals",
+        "Training"
+    ],
+    "experience": [
+        "04/2017 to 01/2015",
+        "Company Name",
+        "Volunteered at Albuquerque Fashion Week.",
+        "I worked in a booth that displayed business like clothes and shoes for homeless women and men to reintegrate them into the workforce.",
+        "Walking for Chiari, June 7-9, 2013 Help organize a charity walk that raised money for individuals living with Chiari.",
+        "Master Practicum Perfectly Imperfect 242 hours IOP Substance Use/Abuse treatment program using the Matrix modality.",
+        "HRT treatment using the Wexler model to treat clients that are referred to the agency for Intimate Partner Violence.",
+        "Seeking Safety treatment program that is geared towards working with individuals who are experiencing possible violence, PTSD, and",
+        "Substance use/abuse.",
+        "Worked with clients in a group setting.",
+        "Helped clients identify what has led to them being referred to the agency for treatment."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master Practicum",
+            "Institution": "TECHNICIAN OPS COORDINATOR\nProfessional Summary\nTo apply my current education to obtain placement in an agency that provides services to clients who are seeking treatment for substance"
+        },
+        {
+            "Degree": "Bachelor",
+            "Institution": "Intimate Partner Violence , and"
+        }
+    ],
+    "category": "Professional Summary"
+}

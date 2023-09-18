@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Hardware",
+        "Database",
+        "Research",
+        "C",
+        "Banking",
+        "Sql",
+        "Sql server",
+        "Security",
+        "Tableau",
+        "Information technology",
+        "Administration",
+        "Asp",
+        "Data management",
+        "Design",
+        "Business intelligence",
+        "Strategy",
+        ".net",
+        "Programming",
+        "Workflow",
+        "Modeling",
+        "Analysis",
+        "Architecture",
+        "Agile",
+        "Billing",
+        "System",
+        "Application support",
+        "Oracle",
+        "Economics",
+        "Xml",
+        "Sdlc",
+        "Project management",
+        "Sharepoint",
+        "Workflows",
+        "Pl/sql",
+        "Tfs",
+        "Business analysis"
+    ],
+    "experience": [
+        "Director of Information Technology 11/2012 to 08/2015 Company Name",
+        "Provided application and network support services for the MSBA.",
+        "The MSBA is a small quasi-public state authority who financially assists school districts in their school building projects.",
+        "My group maintains a rackspace hosted asp.net solution tied to SQL Server.",
+        "I had all the hardware and software refreshed as well as bringing the development group up to sql server, tfs, and VS 2012.",
+        "I personally rewrote their utility and security library from VB.NET to C# and added many more classes to support more static helper",
+        "functions.",
+        "I also developed an architecture based on object modeling for a middle tier.",
+        "I was the the login account administrator for the authority which utilized Santander Banking Services.",
+        "I wore many hats with my team - developer, manager, network administration and help desk."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "OF INFORMATION TECHNOLOGY\nProfile\nSUMMAR Y Applying technology and workflow solutions to business challenges is exciting for me because I love to learn and apply new lessons\nand approaches to support and enhance the organization to achieve its goals and"
+        },
+        {
+            "Degree": "MBA",
+            "Institution": "Core Qualifications"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Oracle SQL \nOracle\nInformation Management \nSQL Server"
+        }
+    ],
+    "category": "INFORMATION TECHNOLOGY"
+}

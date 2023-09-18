@@ -1,0 +1,48 @@
+{
+    "skills": [
+        "Sales",
+        "Outreach",
+        "Coaching",
+        "Analytical",
+        "Teaching",
+        "System",
+        "Database",
+        "Policies",
+        "Reports",
+        "Analysis",
+        "Health",
+        "Supervisor",
+        "Interactive",
+        "Advertising",
+        "Marketing",
+        "Training"
+    ],
+    "experience": [
+        "Answered product questions with up-to-date knowledge of sales and company promotions.",
+        "Investigated and resolved customer inquiries and complaints in a timely and empathetic manner.",
+        "Asked open-ended questions to assess customer needs.",
+        "Shift Supervisor/Manager Jun 2008 to Aug 2011",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Ensured daily business sales goals are exceeded and/or completed Ran daily sales total reports.",
+        "Ensured superior customer satisfaction Interviewed potential employees.",
+        "Engendered customer loyalty by remembering personal preferences and allergy information.",
+        "Set and achieved goals for professional development Trained, coached and mentored staff to ensure smooth adoption of new program.",
+        "Implemented innovative programs to increase employee loyalty and reduce turnover.",
+        "Teacher and Coach Aug 2007 to Jun 2008",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Acted as a positive role model for team participants and in the community."
+    ],
+    "company_names": null,
+    "total_experience": 4.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "SERVICE ADVOCATE\nSummary"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "Experience\nCustomer Service Advocate\n \nMar 2016\n \nCompany Name"
+        }
+    ],
+    "category": "Experience Customer"
+}

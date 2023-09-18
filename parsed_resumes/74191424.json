@@ -1,0 +1,44 @@
+{
+    "skills": [
+        "Hospital",
+        "Safety",
+        "Fitness",
+        "Internal customers",
+        "Counsel",
+        "Sports",
+        "International",
+        "Payments",
+        "Marketing",
+        "Plan",
+        "Money",
+        "Consulting",
+        "Operations",
+        "Analysis",
+        "Health",
+        "Billing",
+        "Legal",
+        "Regulations",
+        "Transactions",
+        "Reports",
+        "Training"
+    ],
+    "experience": [
+        "American Cancer Society",
+        "Hubbard House",
+        "Potter's House Christian Fellowship Church Refugee",
+        "Wolfson Children's Hospital"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "ADVOCATE MANAGER\nSummary\nTo apply creative problem solving and management skills with a growing"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "To manage people and interface with customers while using my\nskill in the best possible way to achieve organizational"
+        }
+    ],
+    "category": "Highlights Active"
+}

@@ -1,0 +1,81 @@
+{
+    "skills": [
+        "Engineering",
+        "Electrical engineering",
+        "Windows",
+        "Green",
+        "Safety",
+        "Programming",
+        "Automation",
+        "Instrumentation",
+        "International",
+        "Health",
+        "Procurement",
+        "Communication",
+        "Inventory",
+        "Linux",
+        "Presentation",
+        "Design",
+        "System",
+        "Process",
+        "Technical",
+        "Research",
+        "C++",
+        "Operations",
+        "Experimental",
+        "C",
+        "Electrical",
+        "Protocols"
+    ],
+    "experience": [
+        "Engineering Officer 07/2014 to 06/2015 Company Name City , State",
+        "Spearheaded a team of electricians and technicians to carry out preventive maintenance of equipment of LPG bottling plant. Role also entailed",
+        "procurement of spares and materials and maintain inventory at plant. Major tasks involved:",
+        "Maintenance and calibration of equipment such as cylinder gas leak detectors, washer leak detectors, gas analyzers etc.",
+        "Upkeep of electrical panels and control systems.",
+        "Maintenance of drive units, compressors, LPG pumps etc.",
+        "Modified and developed various plant equipments to improve production line throughput.",
+        "Operations Officer 06/2013 to 06/2014 Company Name City , State",
+        "Oversaw the operations of LPG bottling plant production activities.",
+        "Managed workforce on the production line to give maximum production while maintaining safety standards.",
+        "Optimized the production line equipment and maintained regular calibration checks of equipments like quality check machines to produce",
+        "hazard free bottled cylinders.",
+        "Intern 06/2012 to 07/2012 Company Name City , State",
+        "Engaged  in  various  automation  and  control  system  design  using  Distributed  Control  Systems  and  Programmable  Logical  Controllers.  Learned",
+        "interfacing of instruments with Controllers and their respective communication protocols.",
+        "Documented and created a report as a reference manual on the technical details of various systems and instruments which was presented to the",
+        "company.",
+        "Intern 06/2011 to 07/2011 Company Name City , State",
+        "Learned about the various instruments used in different process applications of the petroleum refinery. Knowledge of the use of intrinsically safe",
+        "devices in hazardous areas and the ratings of equipment as per the hazardous zones.  Interfacing of these instruments with  Distributed  Control",
+        "Systems and parameters of tuning the PID controllers",
+        "Published Work",
+        "Research Paper: \u00c2",
+        "K.P.S.  Rana,  N.  Mittra, N.  Pramanik  ,  P.  Dwivedi  and  P.  Mahajan:  \"  Virtual  Instrumentation Approach  to  Neural  Network  Based",
+        "Thermistor Linearization on Field Programmable Gate Array \"; Experimental Techniques Volume 39, Issue 2, pages 23\u00e2\u20ac\u201c30, Jan 2013 \u00c2",
+        "\u00c2",
+        "Conference Presentation: \u00c2",
+        "K. P. S. Rana, Vineet Kumar, Neel Pramanik , Nishant Mitra, Sumit Kumar Shakya: \"  Some Applications of FPGA in Custom Waveform",
+        "Generation and Triggering for Metrology \";Conference: 8th International Conference on Advances in Metrology (AdMET), Organised jointly",
+        "by CSIR-NPL and Metrology Society of India, At New Delhi, India, Feb 2013 \u00c2"
+    ],
+    "company_names": [
+        "Programmable Logic Controller"
+    ],
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "OFFICER\nObjective\nLooking for opportunities to work in an research environment for creating solutions using digital systems at circuit as well as system"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Education\nMaster of Science"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Electrical Engineering\n \n2017\n \nNorth Carolina State University\n \nCity\n \n, \nState\n \n, \nUSA\nBachelor of Engineering"
+        }
+    ],
+    "category": "Education Master"
+}

@@ -1,0 +1,38 @@
+{
+    "skills": [
+        "Updates",
+        "English",
+        "Research",
+        "Technical",
+        "Administration",
+        "Marketing",
+        "Technical skills",
+        "Biology",
+        "Inventory",
+        "Windows",
+        "Migration",
+        "Audit",
+        "Crm",
+        "Payments",
+        "Financing",
+        "Sap",
+        "Installation",
+        "Sales",
+        "Health"
+    ],
+    "experience": [
+        "Apple CRM: proprietary CRM software used to organize client information, track leads, and finalize sales",
+        "SAP Inventory Management: Software to track product movement, catalog merchandise, and audit for loss\u00c2",
+        "iOSdm Hub & Jamf: device management platform to maintain functionality, and push software updates",
+        "Conducted research on model organism, fruit fly ( Drosophila, melanogaster)"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "SPECIALIST\nObjective\nTo obtain a position in a challenging environment that presents the opportunities for growth and"
+        }
+    ],
+    "category": "SPECIALIST Objective"
+}

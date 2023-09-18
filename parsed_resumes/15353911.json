@@ -1,0 +1,35 @@
+{
+    "skills": [
+        "Tv",
+        "Adobe",
+        "Coding",
+        "Teaching",
+        "Training",
+        "Illustrator",
+        "Video",
+        "Photography",
+        "Photoshop",
+        "Design"
+    ],
+    "experience": [
+        "02/2017 - Current",
+        "Company Name \u00ef\u00bc\u200b City , State Lead Artist",
+        "Design custom D&D character sprites, \"party\" and menu screens, and backgrounds fitting 8-bit video game aesthetics for an upcoming Dungeons",
+        "and Dragons YouTube series.",
+        "06/2016 - 08/2016",
+        "Company Name \u00ef\u00bc\u200b City , State Digital Arts Assistant Instructor Assisted in teaching digital art, film, photography, minecraft-modding, coding, and",
+        "animation to kids ages 5-18.",
+        "05/2015 - 08/2015",
+        "Company Name \u00ef\u00bc\u200b City , State Canvassing Manager Gathered donations for the ACLU's proposed Employment Non-Discrimination Act for the",
+        "protection of LGBT+ people in the workplace."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "ARTIST\nSummary\nI'm a"
+        }
+    ],
+    "category": "LEAD ARTIST"
+}

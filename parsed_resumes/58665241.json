@@ -1,0 +1,43 @@
+{
+    "skills": [
+        "Word",
+        "Research",
+        "Policies",
+        "Content",
+        "International",
+        "Teaching",
+        "Presentations",
+        "Writing",
+        "Administration",
+        "Psychology",
+        "Training",
+        "English",
+        "Certification",
+        "Testing"
+    ],
+    "experience": [
+        "English Teacher Oct 2014 to Jun 2015",
+        "Company Name - City , State"
+    ],
+    "company_names": null,
+    "total_experience": 0.67,
+    "education": [
+        {
+            "Degree": "Ph.D. in",
+            "Institution": "TEACHER\nSummary\nI am an imaginative teacher committed to staying current with the latest teaching theories and trends, as well as with behavioral"
+        },
+        {
+            "Degree": "Ph.D\n \n,",
+            "Institution": "My strong\nsubject areas include"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "English (ELA) (ESL) and"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Highlights\nValid and Current Teaching\nCertification in Connecticut\nKind and empathetic towards\nstudents\nBackground Urban public\nschools Grades"
+        }
+    ],
+    "category": "ENGLISH TEACHER"
+}

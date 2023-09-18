@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Controls",
+        "Email",
+        "System",
+        "Transactions",
+        "Purchasing",
+        "Video",
+        "C",
+        "Compliance",
+        "Testing",
+        "Mobile",
+        "Excel",
+        "Plan",
+        "Technical",
+        "Engineering",
+        "Troubleshooting",
+        "Safety",
+        "Reports",
+        "Administration",
+        "Powerpoint",
+        "Vendors",
+        "Schedules",
+        "Protocols",
+        "Regulations",
+        "Electrical",
+        "Inventory",
+        "Hardware",
+        "Tablets",
+        "Windows",
+        "Communication",
+        "Specifications",
+        "Electronics",
+        "Operations",
+        "Repairs",
+        "Requests",
+        "Beverage",
+        "Training",
+        "Installation",
+        "Sales"
+    ],
+    "experience": [
+        "Performs a variety of tasks.",
+        "Leads and directs the work of others.",
+        "A wide degree of creativity and spontaneity is expected.",
+        "Typically reports to top management (District Operator)."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master Technician",
+            "Institution": "CONSULTANT\nProfessional Summary\nHighly qualified Electronics Engineering Technician with training and experience in electrical and mechanical"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Demonstrated ability to read\nschematic diagrams and use appropriate test equipment to troubleshoot equipment and manufactured"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Excellent at contributing to team\nand project success by sharing acquired knowledge and using strong interpersonal communication skills to encourage"
+        },
+        {
+            "Degree": "Master Technician",
+            "Institution": "Proficient in installing, maintaining, calibrating, configuring and"
+        }
+    ],
+    "category": "Professional Summary"
+}

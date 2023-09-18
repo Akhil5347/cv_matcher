@@ -1,0 +1,95 @@
+{
+    "skills": [
+        "Billing",
+        "Coding",
+        "Updates",
+        "System",
+        "Visio",
+        "Architecture",
+        "Improvement",
+        "Analyze",
+        "Spreadsheets",
+        "Compliance",
+        "Regulatory",
+        "Electrical engineering",
+        "Testing",
+        "Research",
+        "Product quality",
+        "Vmware",
+        "Plan",
+        "Technical",
+        "Troubleshooting",
+        "Engineering",
+        "Content",
+        "Logistics",
+        "Automation",
+        "Consulting",
+        "Administration",
+        "Security",
+        "Servers",
+        "Regulations",
+        "Electrical",
+        "Lan",
+        "Hardware",
+        "Windows",
+        "Database",
+        "Specifications",
+        "Design",
+        "Forecasts",
+        "Accounting",
+        "Operations",
+        "Access",
+        "Policies",
+        "Sql",
+        "Networking",
+        "Positioning",
+        "Linux",
+        "Healthcare",
+        "Installation",
+        "Training",
+        "Active directory",
+        "Sales",
+        "Cisco",
+        "Computer applications",
+        "Hospital"
+    ],
+    "experience": [
+        "IT Consultant",
+        "November 2011 to Current Company Name \u00ef\u00bc\u200b City , State",
+        "Provides hardware and software specifications to users based on application and business needs and anticipated growth, installs new",
+        "servers, routers, firewall and maintains the entire infrastructure.",
+        "Recommends changes to improve systems and network configurations, and determine hardware or software requirements related to",
+        "proposed changes.",
+        "Performs troubleshooting for complex hardware, software and network problems.",
+        "Defines procedures for monitoring and evaluates, diagnoses, and establishes work plan to resolve system issues."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor's degree",
+            "Institution": "CONSULTANT\nProfessional Profile\nAccomplished Senior IT Engineer with demonstrated ability to analyze business requirements and create effective technical solutions applicable to\ndiverse"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "Serves as strategic partner to senior management, identifying business requirements, aligning IT assets with company goals and\nmaking key strategic"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "An experienced Network Engineer with excellent troubleshooting"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "Highlights\nOver 15 year experience in Design, installation and management of data and voice"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "Expertise"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Design, build and maintain Microsoft Windows Servers including Domain\ncontrollers, Exchange, SQL Database and Web servers, Novell servers and Linux"
+        }
+    ],
+    "category": "Professional Profile"
+}

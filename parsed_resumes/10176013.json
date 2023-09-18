@@ -1,0 +1,57 @@
+{
+    "skills": [
+        "Computer science",
+        "Transactions",
+        "Architecture",
+        "Process",
+        "Compliance",
+        "Construction",
+        "Sales",
+        "Contracts",
+        "Technical",
+        "Commissioning",
+        "Sales goals",
+        "Reports",
+        "Administration",
+        "Marketing",
+        "Programming",
+        "Schedules",
+        "Electrical",
+        "Inventory",
+        "Marketing plans",
+        "Analytical",
+        "Presentations",
+        "Communication",
+        "Specifications",
+        "Economics",
+        "Design",
+        "Operations",
+        "Scheduling",
+        "Budgeting",
+        "Ordering",
+        "Requests",
+        "Analysis",
+        "Installation",
+        "Quality standards",
+        "Budget",
+        "Autocad"
+    ],
+    "experience": [
+        "12/2012 - Current",
+        "Company Name \u00ef\u00bc\u200b City , State Construction Estimator",
+        "Qualified competitive subcontractor bids prior to execution of contracts.",
+        "Carefully coordinated plans and specs using marketing programming standards.",
+        "Educated general contractor personnel on the quality standards throughout the construction process.",
+        "Managed a team of [Number] onsite general contractors for [Number] months.",
+        "Reviewed and investigated Proposed Change Order Requests (PCOR)."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "ESTIMATOR\nSummary\nEnergetic Construction Manager consistently involved in all facets of building"
+        }
+    ],
+    "category": "CONSTRUCTION ESTIMATOR"
+}

@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "Security",
+        "Construction",
+        "Information technology",
+        "Operations",
+        "Acquisition",
+        "Compliance",
+        "Procurement",
+        "Requests",
+        "Supervisor",
+        "Design",
+        "Process",
+        "Visual",
+        "Scheduling",
+        "Installation",
+        "Documentation",
+        "System",
+        "Plan",
+        "Routing",
+        "Engineering",
+        "Specifications",
+        "Technical",
+        "Customer requirements",
+        "Sci",
+        "Lan",
+        "Updates",
+        "Schedule",
+        "Testing",
+        "Test plans"
+    ],
+    "experience": [
+        "Information Technology (IT) Specialist",
+        "January 2012 Company Name",
+        "IT Specialist Project Engineer",
+        "December 2009 to Current City , State",
+        "U.S."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "master schedule",
+            "Institution": "TECHNOLOGY (IT) SPECIALIST\nExperience\nInformation Technology (IT) Specialist\n \nJanuary 2012\n \nCompany Name\nIT Specialist Project Engineer\n \nDecember 2009\n \nto \nCurrent\n \nCity\n \n, \nState"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Army Information Systems Engineering Command (USAISEC) on projects involving large and complex data networks and\ntelecommunications systems while assigned to the Fort Huachuca Engineering Directorate of"
+        }
+    ],
+    "category": "INFORMATION TECHNOLOGY"
+}

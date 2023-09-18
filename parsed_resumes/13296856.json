@@ -1,0 +1,39 @@
+{
+    "skills": [
+        "Expenses",
+        "Presentation",
+        "Plan",
+        "Teaching",
+        "Communication",
+        "Outreach",
+        "Engagement",
+        "Networking",
+        "Partnerships",
+        "Training",
+        "Administration",
+        "Time management",
+        "Microsoft office",
+        "Budget",
+        "Certification",
+        "English",
+        "Design"
+    ],
+    "experience": [
+        "Teacher Sep 2015 to Jul 2017",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Knowledge and understanding of DPS practices, framework, and mission"
+    ],
+    "company_names": null,
+    "total_experience": 1.83,
+    "education": [
+        {
+            "Degree": "Master",
+            "Institution": "Summary\nExperienced"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Program Manager"
+        }
+    ],
+    "category": "Program Manager"
+}

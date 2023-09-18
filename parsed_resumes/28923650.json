@@ -1,0 +1,44 @@
+{
+    "skills": [
+        "Engineering",
+        "Training",
+        "Solidworks",
+        "Teaching",
+        "Statistics",
+        "Transportation",
+        "Automation",
+        "Health",
+        "Analysis",
+        "Mechanical engineering",
+        "Microsoft office",
+        "Experiments",
+        "Marketing",
+        "Os",
+        "Matlab",
+        "Physics",
+        "Design",
+        "Cad",
+        "Testing",
+        "Modeling",
+        "Process",
+        "Research",
+        "Rocket",
+        "Robot",
+        "C",
+        "Electrical"
+    ],
+    "experience": [],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Ph.D. candidate",
+            "Institution": "ENGINEERING INTERN\nSummary\nGraduating"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "Interested in a career as a computational scientist or quantitative software"
+        }
+    ],
+    "category": "Summary Graduating"
+}

@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "Engineering",
+        "Programming",
+        "Teaching",
+        "Api",
+        "Automation",
+        "Instrumentation",
+        "International",
+        "Commissioning",
+        "Analysis",
+        "Matlab",
+        "Design",
+        "Testing",
+        "System",
+        "Electronics",
+        "Technical",
+        "Research",
+        "C++",
+        "Circuits",
+        "Installation",
+        "Autocad",
+        "Electrical"
+    ],
+    "experience": [
+        "Supervised all Electrical & Instrumentation Installation & Commissioning activities including Control & motor loop check, Panel testing,",
+        "Field Instrument & Control Valve testing of Shah Gas Development Project, Abu Dhabi, UAE.",
+        "Prepared all engineering documents such as Instrument Index, Instrument & Control Valve Datasheets, Cause and Effect drawings, Hook",
+        "up Drawing, MTO, Material Requisition, Vendor offer evaluation, Technical write up, preparation of control system philosophy, FAT",
+        "procedure etc.",
+        "IEEE, API, ISA, IEC, NEC standards.).",
+        "Intern",
+        "City , State Company Name / Dec 2011 to Dec 2011",
+        "Interacted & worked with plant operator and chief engineer on SCADA, HMI, PLC, control panel wiring, flow, pressure, level transmitter",
+        "& control valves.",
+        "RESEARCH & PROJECT Research on \"Dynamic Stability of Grid-Microgrid interconnection system using Fuzzy Logic Controller\".",
+        "To design a fuzzy logic controller to limit the switching transients and enable a smooth transition of Microgrid from Islanded mode to Grid-",
+        "connected mode.",
+        "Matlab/Simulink-Simpower system and Opal-RT for simulation) Project on \"Close loop traffic control system using PLC (Programmable",
+        "Logic controller)\".",
+        "To control the time period of traffic lights based on density of traffic using PLC (used LG PLC for simulation)."
+    ],
+    "company_names": [
+        "Siemens"
+    ],
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "ENGINEERING INSTRUCTOR\nSummary\nSeeking an"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Control Engineering for Spring & Summer 2017\nHighlights\nMATLAB, Simulink, Siemens"
+        }
+    ],
+    "category": "Control Engineering"
+}

@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "Email",
+        "Transactions",
+        "Teaching",
+        "Cpr",
+        "Budget",
+        "Receivables",
+        "Word",
+        "Excel",
+        "Plan",
+        "Content",
+        "Reports",
+        "Therapeutic",
+        "Security",
+        "Marketing",
+        "Certification",
+        "Schedules",
+        "Purchase orders",
+        "Banking",
+        "Inventory",
+        "Communication",
+        "Database",
+        "Fulfillment",
+        "Accounting",
+        "Operations",
+        "Scheduling",
+        "Payroll",
+        "Access",
+        "Policies",
+        "Invoicing",
+        "Training",
+        "Analysis",
+        "Auditing",
+        "Sap",
+        "Interactive",
+        "Supervisor",
+        "Sales",
+        "Health"
+    ],
+    "experience": [
+        "Teacher 01/2004 to Current Company Name City , State"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master's of",
+            "Institution": "Summary\nResponsible Special Education Teacher with excellent communication skills demonstrated by 10 years of teaching"
+        },
+        {
+            "Degree": "Master",
+            "Institution": "Skilled special\nneeds high school teacher with the ability to work with children of various emotional and behavioral"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Teacher with experience identifying\nchildren's individual and collective learning"
+        }
+    ],
+    "category": "Summary Responsible"
+}

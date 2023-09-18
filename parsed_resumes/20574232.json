@@ -1,0 +1,42 @@
+{
+    "skills": [
+        "Desktop support",
+        "Email",
+        "Distribution",
+        "System",
+        "Technical",
+        "Troubleshooting",
+        "Vendors",
+        "Servers",
+        "Acquisition",
+        "Lan",
+        "Hardware",
+        "Windows",
+        "Communication",
+        "Gis",
+        "Database",
+        "Iphone",
+        "Dhcp",
+        "Accounting",
+        "Access",
+        "Sql",
+        "Networking",
+        "Active directory",
+        "Licensing",
+        "Installation",
+        "Cisco"
+    ],
+    "experience": [
+        "January 2014 to February 2016 Company Name",
+        "Technical Anaylst Network Anaylst for T1 and VSAT network.",
+        "Support of applications for pipeline technicians.",
+        "Cisco Unified Communicator Manage Cisco VOIP phones.",
+        "Work with Datto, Acronis and Symantec backup applications.",
+        "Managed licensing and FlexLM for Petra.",
+        "Supported user installation and maintenance of Petra database."
+    ],
+    "company_names": null,
+    "total_experience": 2.08,
+    "education": [],
+    "category": "Professional Summary"
+}

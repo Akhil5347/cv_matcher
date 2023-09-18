@@ -1,0 +1,39 @@
+{
+    "skills": [
+        "Sales",
+        "Plan",
+        "Design",
+        "Psychology",
+        "Communication",
+        "Testing",
+        "Finance",
+        "Safety",
+        "English",
+        "Writing",
+        "Engagement",
+        "Administration",
+        "Analysis",
+        "Cpr",
+        "Interactive",
+        "Presentations",
+        "Training"
+    ],
+    "experience": [],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "CONSULTANT\nExecutive Profile\nMotivated, enthusiastic educational leader with"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "My"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "CPR\nCertified and"
+        }
+    ],
+    "category": "Profile Motivated"
+}

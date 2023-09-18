@@ -1,0 +1,31 @@
+{
+    "skills": [
+        "Hospital",
+        "Psychology",
+        "Certification",
+        "Teaching",
+        "Money",
+        "Therapeutic",
+        "International",
+        "Supervisor",
+        "Usability",
+        "Training"
+    ],
+    "experience": [
+        "2009 United Way Volunteer - Hearts of West Michigan United Way Grand Rapids, MI 2008 Animal Shelter Volunteer - Kent County",
+        "Animal Shelter Grand Rapids, MI 2005 - 2006 Summer Camp Volunteer - SpringHill Camps Evart, MI"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "MASTER OF",
+            "Institution": "ARTS PROGRAM LEADER\nProfessional Experience"
+        },
+        {
+            "Degree": "BACHELOR OF",
+            "Institution": "EXPRESSIVE ARTS PROGRAM LEADER\n \nCity\n \n, \nState\nFormulated, proposed, and was authorized to implement"
+        }
+    ],
+    "category": "EXPRESSIVE ARTS"
+}

@@ -1,0 +1,33 @@
+{
+    "skills": [
+        "Correspondence",
+        "Analysis",
+        "Auditing",
+        "Sales",
+        "Queries",
+        "Transactions",
+        "Process",
+        "Accounting",
+        "Communication",
+        "System",
+        "Documentation",
+        "Operations",
+        "Training",
+        "Receivables",
+        "Excel",
+        "Inventory"
+    ],
+    "experience": [
+        "Accountant Company Name \u00ef\u00bc\u200b City , State",
+        "Conducted analysis to address [issue] which led to [positive outcome] . Increased sales by 17% over a two-year period. Provided onsite"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Summary\n15 \nYears of experience in \nAccount receivable and Account payable field and other related accounting"
+        }
+    ],
+    "category": "ACCOUNTANT Summary"
+}

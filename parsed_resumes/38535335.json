@@ -1,0 +1,38 @@
+{
+    "skills": [
+        "Word",
+        "Engineering",
+        "Travel",
+        "Budget",
+        "Ios",
+        "Plan",
+        "Excel",
+        "Scheduling",
+        "Access",
+        "Sap",
+        "Database"
+    ],
+    "experience": [
+        "ENGINEERING COORDINATOR Jul 1996 to Jul 2016",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Proprietary Software License Administrator, Created database for internal and external customer tracking SAP Labor entry and approval",
+        "for Systems R&D and Destructive Technology Groups SAP IO creation and Purchase requisitions Travel arranger for various group",
+        "members Purchase Card for general and project supplies Patent meeting organization and award banquet dinners Meeting & Travel",
+        "scheduling.",
+        "FACILITIES TEMP Nov 1995 to Jul 1996",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "FACILITIES ADMINISTRATOR Oct 1993 to Nov 1995",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Ordered parts and supplies.",
+        "Maintained budget plan.",
+        "Received several achievement awards.",
+        "BULK TELLER Jan 1990 to Oct 1992",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Vault commercial account teller.",
+        "Bulk teller."
+    ],
+    "company_names": null,
+    "total_experience": 25.5,
+    "education": [],
+    "category": "State Proprietary"
+}

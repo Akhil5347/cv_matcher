@@ -1,0 +1,68 @@
+{
+    "skills": [
+        "Hardware",
+        "Pdf",
+        "Hotel",
+        "Migration",
+        "Active directory",
+        "Recruiting",
+        "Reporting",
+        "Administration",
+        "Inventory",
+        "Analyze",
+        "Training",
+        "Retail",
+        "Ibm",
+        "Design",
+        "Email",
+        "Process",
+        "Windows",
+        "Analysis",
+        "Installation",
+        "Communication",
+        "Desktop support",
+        "Engineering",
+        "Access",
+        "Technical",
+        "Sharepoint",
+        "Updates",
+        "Schedule",
+        "Logging",
+        "Servers",
+        "End user"
+    ],
+    "experience": [
+        "PROFESSIONALEXPERIENCE.",
+        "Apollo / SunTrust EIS Data Migration Project (Non-Branch Analyze server space and data to determine the needed space on the",
+        "\"Network Attached Storage\" (NAS).",
+        "Run TBackups on all Novel servers using eDirectory/NDS Report Generator in order to determine the users on the different groups",
+        "throughout the network.",
+        "Use Carbon Copy to remote into a user's computer and move their .pst files from their home (H:) drive on the server to their local computer",
+        "and reconfigure Outlook to use file from the new location.",
+        "Use Robocopy scripts to copy user data from their H: drive to their new folder on the NAS.",
+        "Use Remote Desktop Connection to connect to the clusters and Robocopy their files from the old servers to the new clusters in the NAS.",
+        "Assist in the command center conference call to verify the branch teammate's access to the (H :) drives and (S :) drives from 8:00am to",
+        "12:00noon twice a week, Attend project meetings, Communicate and coordinate data migration and centralization activities with Non-",
+        "Branch personnel, Work effort may be performed remotely using remote migration tools Perform pre-migration communication for migration",
+        "of Email PST files, Perform pre-migration communication for user data migration, Initiate and manage scripts for h:\\drive and shared drive",
+        "migrations for 30 Novell and Windows servers, Manage Command Center Support for Day 1 and Day 2.",
+        "Command Center expected to handle approximately 50+ end user calls per week, Update SharePoint with caller and incident information"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "TECHNOLOGY SUPPORT SPECIALISTNETWORK SPECIALIST PC TECHNICIAN IT CONSULTANT\nCUSTOMER\nWork Experience\nCompany Name\n \nCity\n \n, \nState\n \nInformation Technology Support Specialist Network Specialist"
+        },
+        {
+            "Degree": "mba",
+            "Institution": "PC Technician IT Consultant Customer Engineer"
+        },
+        {
+            "Degree": "mba",
+            "Institution": "Current\nWith more than 10 years' experience in the IT"
+        }
+    ],
+    "category": "INFORMATION TECHNOLOGY"
+}

@@ -1,0 +1,37 @@
+{
+    "skills": [
+        "Troubleshooting",
+        "Technical",
+        "Electronics",
+        "Engineering",
+        "Administration",
+        "Aviation",
+        "Training"
+    ],
+    "experience": [
+        "Company Name City , State Lead Aerospace Assembler 06/2016 to Current",
+        "Trained and led a team of six assemblers to quickly and efficiently build landing gear beams",
+        "Ensured\u00c2 all equipment was properly installed and working correctly.",
+        "Planned work and determined appropriate tools and equipment needed for the workday.\u00c2",
+        "Processed work orders and prioritized jobs.",
+        "Communicated with prior shift to assess work needs for the day.",
+        "Company Name City , State Aviation Electronics Technician 09/2011 to 10/2015",
+        "Adjust, repair, or replace malfunctioning components on assemblies or circuit boards by using hand tools or soldering irons.",
+        "Test and troubleshoot instruments, components and assemblies, using multimeters.",
+        "Connect components to assemblies such as transformers, relays, switches, in-flight refueling systems, etc.",
+        "Read and interpret maintenance manuals, technical publications, and engineering diagrams to determine the feasibility and method of",
+        "repairing defective components.",
+        "Keep records of maintenance and repair work.",
+        "Coordinate work with engineers, technicians and other aircraft maintenance personnel.",
+        "Inspect completed work to certify that maintenance meets standards and that aircraft are ready for operation."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "mba",
+            "Institution": "AEROSPACE ASSEMBLER\nSummary\nAccomplished and highly motivated aerospace"
+        }
+    ],
+    "category": "Summary Accomplished"
+}

@@ -1,0 +1,44 @@
+{
+    "skills": [
+        "Hospital",
+        "Scheduling",
+        "Transport",
+        "Distribution",
+        "System",
+        "Teaching",
+        "Statistics",
+        "Process",
+        "Improvement",
+        "Administration",
+        "Healthcare",
+        "Health"
+    ],
+    "experience": [
+        "Field Nurse",
+        "January 2011 to Current Company Name \u00ef\u00bc\u200b City , State",
+        "Helped physicians examine and treat patients by assisting with instruments, injections and suture removal.",
+        "Supported patients with customized patient teaching tools.",
+        "Ensured efficacy of treatments through monitoring of treatment regimens.",
+        "Provided treatment within scope of practice as defined by state law.",
+        "Coordinated with doctors and registered nurses to develop care plans for patients.",
+        "Recorded patients' medical history, vital statistics and test results in medical records.",
+        "Escorted patients to examination rooms and prepared them for physician exams.",
+        "Performed lab tests and communicated results.",
+        "Served as a liaison between patients and physicians to assist patients in understanding their treatment plans.",
+        "Monitored patients with acute conditions.",
+        "Tested patients' blood glucose levels.",
+        "Staff Nurse/Detox Specialist",
+        "December 2012 to October 2013 Company Name \u00ef\u00bc\u200b City , State",
+        "Recorded patients' medical history, vital statistics and test results in medical records.",
+        "Performed all tasks with a patient-centered focus while seeking opportunities for improvement of processes and treatments."
+    ],
+    "company_names": null,
+    "total_experience": 0.83,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "NURSE\nProfessional Summary"
+        }
+    ],
+    "category": "Professional Summary"
+}

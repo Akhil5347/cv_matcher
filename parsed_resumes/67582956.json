@@ -1,0 +1,44 @@
+{
+    "skills": [
+        "C",
+        "Construction",
+        "Retail",
+        "Word",
+        "Excel",
+        "Transportation",
+        "Presentation",
+        "Plan",
+        "Technical",
+        "Engineering",
+        "Modeling",
+        "Reports",
+        "Powerpoint",
+        "Analytical",
+        "Presentations",
+        "Communication",
+        "Specifications",
+        "Cad",
+        "Design",
+        "Training",
+        "Healthcare",
+        "Microsoft word",
+        "Sales",
+        "Autocad"
+    ],
+    "experience": [
+        "Project Designer 10/2001 to 01/2014 Company Name City , State"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "DESIGNER\nSummary"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Civil Engineer with 16 years of experience who designs"
+        }
+    ],
+    "category": "Summary Team"
+}

@@ -1,0 +1,35 @@
+{
+    "skills": [
+        "Word",
+        "Accounting",
+        "Excel",
+        "Ms excel",
+        "Marketing",
+        "Training",
+        "Microsoft word",
+        "Sales",
+        "Advertising"
+    ],
+    "experience": [
+        "Company Name May 2004 to August 2007 Sales",
+        "City , State",
+        "Responsible for sales and marketing Fresh meat products and keeping accounts in balance.",
+        "Responsible for resets,new store openings.",
+        "Company Name April 1997 to May 2004 sales and marketing",
+        "City , State",
+        "Responsible for ,Package meat products and keeping accounts in.",
+        "balance.",
+        "Responsible for cost effective advertising.",
+        "Lines, Sunnyland Foods, Lykes, Ball.",
+        "Park, Tennessee Pride, Foster Farms Corn Dogs, Gwaltney, etc.",
+        "Company Name February 1972 to March 1996 Key Account Sales Representative",
+        "City , State",
+        "Promote and market Sunnyland products in Georgia, South Carolina, And Florida.",
+        "Received.",
+        "company's highest sales award 1974,1978,1983,1985,and 1988."
+    ],
+    "company_names": null,
+    "total_experience": 34.42,
+    "education": [],
+    "category": "Perishable Meats"
+}

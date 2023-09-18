@@ -1,0 +1,43 @@
+{
+    "skills": [
+        "Banking",
+        "Excel",
+        "Technical",
+        "Data analysis",
+        "Research",
+        "Financing",
+        "Sales",
+        "French",
+        "Architecture",
+        "Finance",
+        "Budget",
+        "Engineering",
+        "Compliance",
+        "Operations",
+        "Analysis",
+        "Statistics",
+        "Calculus",
+        "Presentations",
+        "Content",
+        "Java",
+        "Economics",
+        "Python",
+        "Financial analysis",
+        "Spanish",
+        "Training"
+    ],
+    "experience": [],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "BANKING SUMMER ANALYST\nSkills\nJava"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Python, App development\nExperience\nINVESTMENT BANKING SUMMER ANALYST\n \nMay 2013\n \nto \nAugust 2013\n \nCompany Name"
+        }
+    ],
+    "category": "Skills Java"
+}

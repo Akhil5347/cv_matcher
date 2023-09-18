@@ -1,0 +1,29 @@
+{
+    "skills": [
+        "Biology",
+        "Technical",
+        "Teaching",
+        "Communication",
+        "Math",
+        "Training",
+        "Cpr",
+        "Supervisor",
+        "Sports"
+    ],
+    "experience": [
+        "Company Name City , State Pre-Service Teacher 03/2017 to 04/2017",
+        "Independently taught a 7th grade science study hall class",
+        "Constructed lesson plans, observed, and taught 7th and 8th grade Biology",
+        "Implemented technology and hands on learning activities in the classroom",
+        "Made modifications and accommodations for ESL learners"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "TEACHER\nSummary\nSeeking a middle grades"
+        }
+    ],
+    "category": "SERVICE TEACHER"
+}

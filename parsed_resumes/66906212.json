@@ -1,0 +1,44 @@
+{
+    "skills": [
+        "Regulations",
+        "Coaching",
+        "Operations",
+        "Fundraising",
+        "Investigate",
+        "Policies",
+        "Content",
+        "Teaching",
+        "Communication",
+        "Writing",
+        "Administration",
+        "Marketing",
+        "Training",
+        "Interactive",
+        "Supervisor",
+        "English",
+        "Certification",
+        "Documentation"
+    ],
+    "experience": [],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "bachelor's degrees",
+            "Institution": "Summary\nThank you for taking the time to read"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "I am presenting you this resume to express my interest in a Social Studies teaching position at your"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "My experience in the Social Studies field includes bachelor's degrees in Criminology, Political Science, as well as Secondary Social\nScience"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Highlights\nValid and Current Teaching Certification in California as well as"
+        }
+    ],
+    "category": "Social Studies"
+}

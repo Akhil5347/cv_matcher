@@ -1,0 +1,41 @@
+{
+    "skills": [
+        "Schedules",
+        "Psychology",
+        "System",
+        "Risk assessments",
+        "Documentation",
+        "Reports",
+        "Fitness",
+        "Analysis",
+        "Reporting",
+        "Health",
+        "Research",
+        "Training"
+    ],
+    "experience": [
+        "September 2013 to Current",
+        "Company Name City , State Court appointed special advocate for abused and neglected children",
+        "Collaborated with Guardian ad Litem's, Child protective service workers, Mental health professionals, teachers and parents",
+        "Maintained monthly contact with my client and their families.",
+        "Evaluated and addressed individual client needs and concerns.",
+        "Wrote court reports and case plans",
+        "Maintained thorough case history records and wrote detailed reports.",
+        "Managed caseloads and acted as an advocate for client rights..",
+        "February 2013 to Current",
+        "Company Name City , State Emergency Medical Technician and Social Worker volunteer"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "APPOINTED SPECIAL ADVOCATE FOR ABUSED AND NEGLECTED CHILDREN\nSummary"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Licensed Social Worker with 7 years of experience working with children and adolescents in various"
+        }
+    ],
+    "category": "COURT APPOINTED"
+}

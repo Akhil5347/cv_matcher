@@ -1,0 +1,31 @@
+{
+    "skills": [
+        "Regulations",
+        "Operations",
+        "Hospital",
+        "Biology",
+        "Policies",
+        "Administration",
+        "Healthcare",
+        "Training",
+        "Cpr",
+        "Compliance",
+        "Fitness",
+        "Health"
+    ],
+    "experience": [
+        "Preventative Healthcare Intern",
+        "January 2016 to April 2016 Company Name - City , State"
+    ],
+    "company_names": [
+        "Birmingham"
+    ],
+    "total_experience": 0.25,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "HEALTHCARE INTERN\nProfessional Summary\nDriven and compassionate healthcare professional with experience in"
+        }
+    ],
+    "category": "PREVENTATIVE HEALTHCARE INTERN"
+}

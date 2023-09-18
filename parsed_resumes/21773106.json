@@ -1,0 +1,49 @@
+{
+    "skills": [
+        "Supervising",
+        "System",
+        "Teaching",
+        "Cpr",
+        "Phone calls",
+        "Researching",
+        "Writing",
+        "Reports",
+        "Security",
+        "Certification",
+        "Inventory",
+        "Editing",
+        "Communication",
+        "Math",
+        "Scheduling",
+        "Audio",
+        "Ordering",
+        "Reporting",
+        "Training",
+        "Supervisor",
+        "Sales",
+        "Advertising",
+        "Visual",
+        "Spelling"
+    ],
+    "experience": [
+        "Teacher",
+        "July 2004 to June 2014 Company Name \u00ef\u00bc\u200b City , State",
+        "Instructed through lectures, discussions and demonstrations in Math, Science, Social Studies, Language Arts, Reading, Spelling.",
+        "Assigned lessons and corrected homework.",
+        "Attended a variety of professional development workshops centered on learning goals, classroom management, student motivation and",
+        "engaging learning activities."
+    ],
+    "company_names": null,
+    "total_experience": 9.92,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "Summary"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Specialty areas include"
+        }
+    ],
+    "category": "TEACHER Summary"
+}

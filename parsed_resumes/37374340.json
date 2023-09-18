@@ -1,0 +1,43 @@
+{
+    "skills": [
+        "Billing",
+        "Supervising",
+        "Process",
+        "Compliance",
+        "Regulatory",
+        "Documentation",
+        "Research",
+        "Legal",
+        "Safety",
+        "Administration",
+        "Schedules",
+        "Financial management",
+        "Communication",
+        "Admissions",
+        "Operations",
+        "Scheduling",
+        "Payroll",
+        "Human resources",
+        "Policies",
+        "Outreach",
+        "Healthcare",
+        "Training",
+        "Sales",
+        "Health"
+    ],
+    "experience": [
+        "Meeting with clients and families to Identify their needs and goals.",
+        "Assisted with development of regulatory compliance systems.",
+        "Planned, coordinated and controlled daily operations of sales, financial management and human resources.",
+        "Maintained work safety and followed established operating procedures and practices."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "master schedules",
+            "Institution": "Lobdell\nSummary"
+        }
+    ],
+    "category": "Rachael Lobdell"
+}

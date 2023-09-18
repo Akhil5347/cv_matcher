@@ -1,0 +1,42 @@
+{
+    "skills": [
+        "Excel",
+        "Policies",
+        "Administration",
+        "Accounting",
+        "Security clearance",
+        "Schedules",
+        "Communication",
+        "English",
+        "Aviation",
+        "Phone calls",
+        "Travel arrangements",
+        "Inventory",
+        "Customer service",
+        "Content",
+        "Reports",
+        "Training",
+        "Expenses",
+        "Spanish",
+        "Travel",
+        "Security",
+        "System"
+    ],
+    "experience": [
+        "Aviation Operation Specialist",
+        "January 2014 to February 2015 Company Name - City , State",
+        "Compiled, managed, and maintained sensitive flight data for more than 60 aviators ensuring all flight departures and arrivals were successful",
+        "and all aviator flight information was accurately and consistently logged for daily and weekly flight reports.",
+        "Safeguarded, analyzed and maintained up-to-date aviator flight hours and personnel individual flight records utilizing Centralized Aviation",
+        "Flight Records (CAFRS) information operating systems for more than 60 aviators identifying and correcting deficiencies by 20%."
+    ],
+    "company_names": null,
+    "total_experience": 1.08,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "OPERATION SPECIALIST\nSummary\nPursuing a position as a Client Support Specialist II, along with the opportunity to achieve and maintain the highest level of customer service, data\ncompilation, and team"
+        }
+    ],
+    "category": "SPECIALIST Summary"
+}

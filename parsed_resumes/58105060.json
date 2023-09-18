@@ -1,0 +1,38 @@
+{
+    "skills": [
+        "Billing",
+        "Purchasing",
+        "Teaching",
+        "Mathematics",
+        "Video",
+        "English",
+        "Testing",
+        "Word",
+        "Phone calls",
+        "Excel",
+        "Plan",
+        "Powerpoint",
+        "Schedule",
+        "Quickbooks",
+        "Customer service",
+        "Electrical",
+        "Presentations",
+        "Math",
+        "Interactive",
+        "Deposits"
+    ],
+    "experience": [],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "TEACHER\nMenrit\n \nMansour\nProfessional Summary\nEducational professional accomplished in organizing teacher curricula, creating full year course pacing guides, creating and implementing engaging\nand interactive lessons that combine"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Skills\nWord, Excel, and PowerPoint"
+        }
+    ],
+    "category": "MATH TEACHER"
+}

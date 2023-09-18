@@ -1,0 +1,50 @@
+{
+    "skills": [
+        "Design",
+        "Prototype",
+        "Startup",
+        "Administration",
+        "Metrics",
+        "Computer science",
+        "Workflow",
+        "Ios",
+        "Servers",
+        "Testing",
+        "Database",
+        "Strategy",
+        "Data collection",
+        "Engineering",
+        "C++",
+        "C",
+        "Ui",
+        "Debugging",
+        "Android",
+        "Logging",
+        "Analysis",
+        "Customer service",
+        "Mobile",
+        "Content",
+        "Ai",
+        "Physics",
+        "Training",
+        "C#",
+        "Programming",
+        "System"
+    ],
+    "experience": [
+        "incoming enemy fire and move away from fire at current location Profiled and optimized server-side (Lua/C++) code to improve",
+        "performance added new AI editor and in-game functionality to support game design requirements Command & Conquer (PC, Limited live",
+        "alpha release) Enhanced and debugged (C#) server-side skirmish AI unit production and base defense, and developed code to allow the",
+        "skirmish AI Generals to use taunts against opponents Established localization pipeline and workflow using EA shared technology database",
+        "and tools Integrated an EA shared technology UI system (C++) into the Frostbite game client codebase Implemented HUD features such as"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor",
+            "Institution": "ENGINEER\nProfile\nExperienced Software Engineer generalist with a strong interest in Game Play, and AI"
+        }
+    ],
+    "category": "ENGINEER Profile"
+}

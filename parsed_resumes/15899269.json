@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "Psychology",
+        "Training",
+        "Writing",
+        "Legal"
+    ],
+    "experience": [
+        "08/2015 to 07/2017",
+        "Teacher Company Name \u00ef\u00bc\u200b City , State",
+        "Implement instructional activities contributing to meaningful learning experiences.",
+        "Prepare syllabi and detailed lesson plans based on course standards and objectives.",
+        "Communicate effectively, both orally and in writing, with students, parents, and other professionals on a regular basis.",
+        "Established and maintained cooperative working relationships with students, parents, and co-workers.",
+        "Collaborate with peers to enhance the instructional environment.",
+        "05/2014 to Current",
+        "Social Services Specialist Company Name \u00ef\u00bc\u200b City , State",
+        "Ensure new mothers have the necessary supplies and resources needed for a safe newborn discharge.",
+        "Arrange newborn and maternal appointments with primary providers for follow- up care.",
+        "Coordinate, assess, and evaluate patients specific needs to facilitate discharge planning.",
+        "Provide community referrals to agencies and resources to ensure continuity of care.",
+        "Prepare case records including nature of problems, patient and family needs, final disposition of patient and referrals/services arranged for",
+        "each patient.",
+        "Arrange required durable medical equipment to ensure each patient's continuity of care.",
+        "01/2014 to 05/2014",
+        "Social Work Intern Company Name \u00ef\u00bc\u200b City , State",
+        "Under supervision, coordinate, assess, and evaluate patients specific needs to facilitate discharge planning.",
+        "Under supervision, provide community referrals to agencies and resources to ensure continuity of care.",
+        "Under supervision, prepare case records including nature of problems, patient and family needs, final disposition of patient and",
+        "referrals/services arranged for each patient."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Experience"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Teacher\n \nCompany Name"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "City\n \n, \nState\nImplement instructional activities contributing to meaningful learning"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "Prepare syllabi and detailed lesson plans based on course standards and"
+        }
+    ],
+    "category": "Teacher Company"
+}

@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "Controls",
+        "Billing",
+        "Transactions",
+        "Process",
+        "Improvement",
+        "Investigation",
+        "Sales",
+        "Contracts",
+        "Presentation",
+        "Technical",
+        "Reports",
+        "Administration",
+        "Security",
+        "Marketing",
+        "Vendors",
+        "Customer service",
+        "Retention",
+        "Inventory",
+        "Reconciliation",
+        "Call center",
+        "Communication",
+        "Staffing",
+        "Process improvement",
+        "Metrics",
+        "Accounting",
+        "Operations",
+        "Scheduling",
+        "Payroll",
+        "Human resources",
+        "Policies",
+        "Quality assurance",
+        "Requests",
+        "Training",
+        "Installation",
+        "Deposits",
+        "Visual"
+    ],
+    "experience": [
+        "resolving problems on the spot Managed wide variety of customer service and administrative tasks to resolve customer issues quickly and",
+        "efficiently Recipient of multiple positive reviews acknowledging dedication to excellent customer service Monitored cash drawers in multiple",
+        "checkout stations to ensure adequate cash supply."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master",
+            "Institution": "CARE REPRESENTATIVE\nProfessional Summary\nSkills\nAccount reconciliation\nExceptional organization\nBilling and collections expert\nInvoice and payment transactions\nWork History\nCustomer Care Representative"
+        },
+        {
+            "Degree": "Master",
+            "Institution": "Company Name"
+        }
+    ],
+    "category": "Professional Summary"
+}

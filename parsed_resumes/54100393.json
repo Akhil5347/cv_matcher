@@ -1,0 +1,27 @@
+{
+    "skills": [
+        "Content",
+        "Plan",
+        "Scheduling",
+        "Certification",
+        "Teaching",
+        "English",
+        "Administration",
+        "Project management",
+        "Process"
+    ],
+    "experience": [],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master in",
+            "Institution": "LANGUAGE ARTS TEACHER\nSummary\nI am passionate about teaching and caring for students"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "I believe it is crucial for students to develop critical thinking skills as they\ndevelop their sense of self and their"
+        }
+    ],
+    "category": "National Board"
+}

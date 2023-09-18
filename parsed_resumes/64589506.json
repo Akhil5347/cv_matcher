@@ -1,0 +1,42 @@
+{
+    "skills": [
+        "Banking",
+        "Mining",
+        "Transportation",
+        "Real estate",
+        "Project management",
+        "Financing",
+        "Finance",
+        "Strategy",
+        "Acquisition",
+        "International",
+        "Plan",
+        "Procurement",
+        "Retail",
+        "Analysis",
+        "Legal",
+        "Beverage",
+        "Construction",
+        "Acquisitions",
+        "Transactions",
+        "Training"
+    ],
+    "experience": [],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master",
+            "Institution": "PRINCIPAL\nCareer Focus"
+        },
+        {
+            "Degree": "MBA",
+            "Institution": "Proactive assistance to clients"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Expertise navigating"
+        }
+    ],
+    "category": "New York University"
+}

@@ -1,0 +1,60 @@
+{
+    "skills": [
+        "Engineering",
+        "Training",
+        "Troubleshooting",
+        "Customer service",
+        "Assembly",
+        "Safety",
+        "Supervisor",
+        "Instrumentation",
+        "Sas",
+        "Servers",
+        "Communication",
+        "Inventory",
+        "Construction",
+        "Math",
+        "Access",
+        "Microsoft office",
+        "Word",
+        "Specifications",
+        "Audit",
+        "Schematics",
+        "Design",
+        "Ibm",
+        "Reports",
+        "Fabrication",
+        "Cement",
+        "Testing",
+        "Schedule",
+        "Process",
+        "Technical",
+        "Electrical",
+        "Operations",
+        "Repairs",
+        "Controls",
+        "Excel",
+        "C",
+        "Data entry",
+        "Documentation"
+    ],
+    "experience": [
+        "drawings Install finished assemblies or subassemblies is cases/cabinets Adjust/trim materials from components Develop the layout, parts",
+        "fabrication assembly, install and complete checkout operations required for the construction of electrical and electronic assemblies and",
+        "systems for the purpose of creating or proving engineering design.",
+        "Work from sketches, schematics and/or logic diagrams, fabricate and assemble chassis, panels."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "ENGINEERING\nCareer Overview"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Technology and energy"
+        }
+    ],
+    "category": "SITE ENGINEERING"
+}

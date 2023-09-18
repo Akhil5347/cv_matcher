@@ -1,0 +1,49 @@
+{
+    "skills": [
+        "Schedule",
+        "Design",
+        "Safety",
+        "Technical",
+        "Networking",
+        "Administration",
+        "Supervisor",
+        "Project management",
+        "Instrumentation",
+        "Sales",
+        "Engineering",
+        "Electronics",
+        "Aviation",
+        "Marketing",
+        "Lean",
+        "Consulting",
+        "Operations",
+        "Analysis",
+        "Improvement",
+        "Inventory",
+        "Process",
+        "Technical knowledge",
+        "Construction",
+        "Logistics",
+        "Troubleshooting",
+        "Shell",
+        "Modeling",
+        "Controls",
+        "Reports",
+        "Electrical",
+        "Training"
+    ],
+    "experience": [
+        "Company Name City , State Managed Pressure Drilling Field Supervisor 07/2014 to Current"
+    ],
+    "company_names": [
+        "Shell"
+    ],
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "PRESSURE DRILLING FIELD SUPERVISOR\nProfessional Summary\nDetail oriented and"
+        }
+    ],
+    "category": "MANAGED PRESSURE"
+}

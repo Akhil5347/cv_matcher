@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "Fabrication",
+        "Purchasing",
+        "Process",
+        "Improvement",
+        "Project management",
+        "Solidworks",
+        "Drafting",
+        "Aviation",
+        "Research",
+        "Technical",
+        "Safety",
+        "Engineering",
+        "Modeling",
+        "Programming",
+        "Schedules",
+        "Certification",
+        "Inventory",
+        "Lean",
+        "Analytical",
+        "Windows",
+        "Communication",
+        "Specifications",
+        "Cad",
+        "Microsoft office",
+        "Design",
+        "Sourcing",
+        "Prototyping",
+        "Training",
+        "Linux",
+        "Raw materials",
+        "Sales",
+        "Autocad",
+        "Health"
+    ],
+    "experience": [
+        "Assisted with design of engineering projects, including products, parts and components.",
+        "Read and interpreted blueprints and created engineering drawings and sketches.",
+        "Sketched outline designs and used CAD programs to create detailed design and specifications.",
+        "Consulted with development engineers on new products technologies.",
+        "Researched suppliers of raw materials and finished goods and collaborated with purchasing department to obtain samples for process",
+        "validation and functionality.",
+        "Attended cross-functional product meetings to discuss parts sourcing, lead times and production schedules."
+    ],
+    "company_names": [
+        "Autodesk"
+    ],
+    "total_experience": 0.0,
+    "education": [],
+    "category": "MECHANICAL DESIGNER"
+}

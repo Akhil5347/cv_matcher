@@ -1,0 +1,51 @@
+{
+    "skills": [
+        "Purchase orders",
+        "Automation",
+        "Safety",
+        "Certification",
+        "Crm",
+        "Technical",
+        "Quickbooks",
+        "Project management",
+        "English",
+        "Budget",
+        "Warehouse",
+        "Lean",
+        "Procurement",
+        "Operations",
+        "Analysis",
+        "Installation",
+        "Improvement",
+        "Distribution",
+        "Billing",
+        "Inventory",
+        "Process",
+        "Process improvement",
+        "Logistics",
+        "Scheduling",
+        "Transactions",
+        "Reports",
+        "Training",
+        "Expenses",
+        "Spanish",
+        "Erp",
+        "System"
+    ],
+    "experience": [
+        "Crystal Reports",
+        "MS Office",
+        "Project Management / MS Project",
+        "Quickbooks - Contractor Edition",
+        "CRM - Goldmine"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master Planning",
+            "Institution": "PLANNER\nSummary\nIndustrial Engineer with wide experience in manufacturing, quality, material planning and inventory"
+        }
+    ],
+    "category": "Material Planning\\MRP"
+}

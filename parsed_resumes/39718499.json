@@ -1,0 +1,32 @@
+{
+    "skills": [
+        "Audio",
+        "Communication",
+        "Marketing",
+        "Phone calls",
+        "Retail",
+        "Design",
+        "Coaching",
+        "Sales",
+        "Customer service",
+        "Visual"
+    ],
+    "experience": [
+        "Company Name Salvation Army Volunteer Neighborhood clean-up North Utica Youth Football Volunteer",
+        "Professional Affiliations",
+        "Utica College Football"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "FOOTBALL COACH\nSummary\nEnthusiastic, reliable recent graduate with academic background in business and"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Ability to establish priorities and meet challenges"
+        }
+    ],
+    "category": "COACH Summary"
+}

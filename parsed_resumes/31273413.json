@@ -1,0 +1,44 @@
+{
+    "skills": [
+        "Sales",
+        "Purchasing",
+        "Communication",
+        "Certification",
+        "Teaching",
+        "Policies",
+        "Budget",
+        "Writing",
+        "Accounting",
+        "Customer service",
+        "Tv",
+        "Training",
+        "Visual"
+    ],
+    "experience": [
+        "03/2005 to Current",
+        "Arts Educator Company Name \u00ef\u00bc\u200b City , State",
+        "Supported students in developing strategies for individual needs and classroom group dynamics.",
+        "Communicated effectively with educators from various grade levels.",
+        "Wrote daily and weekly lesson plans.",
+        "Physically and verbally interacted with students throughout the day to keep them engaged.",
+        "Supplied one-on-one attention to each student, while maintaining overall focus on the entire group.",
+        "Encouraged students to be understanding of and helpful to others.",
+        "Organized field trips to local parks, fire stations and zoos.\u00c2",
+        "Conducted small group and individual classroom activities based on differentiated learning needs.",
+        "Conducted small group and individual classroom activities based on differentiated learning needs.",
+        "Applied the positive reinforcement method to redirect negative behaviors."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "EDUCATOR\nSummary\nCreative and innovative \nArt\n \nteacher passionate about making"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Works to\nimprove school climate so that all students can learn course materials, as well as the social skills they need to thrive in all aspects of their"
+        }
+    ],
+    "category": "ARTS EDUCATOR"
+}

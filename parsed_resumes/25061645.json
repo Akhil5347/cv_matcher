@@ -1,0 +1,37 @@
+{
+    "skills": [
+        "Adobe",
+        "Indesign",
+        "Branding",
+        "Transactions",
+        "Microsoft office suite",
+        "Real estate",
+        "Adobe creative suite",
+        "Visual",
+        "Marketing",
+        "Powerpoint",
+        "Illustrator",
+        "Marketing materials",
+        "English",
+        "Advertising",
+        "Photoshop",
+        "Design",
+        "Html",
+        "Css"
+    ],
+    "experience": [
+        "Graphic Designer 08/2014 to 08/2015 Company Name City , State",
+        "Designed webpage layout, logos, related images.",
+        "Manager Assistant / Graphic Designer 07/2014 to Current Company Name City , State",
+        "Provide numerous services to Chinese clients requiring US-based assistance, including: - Facilitating real estate transactions and property"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "DESIGNER\nSummary\nA graphic designer, who is creative and"
+        }
+    ],
+    "category": "GRAPHIC DESIGNER"
+}

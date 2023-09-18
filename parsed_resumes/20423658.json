@@ -1,0 +1,33 @@
+{
+    "skills": [
+        "Scheduling",
+        "Plan",
+        "Sales management",
+        "Training",
+        "Mock",
+        "Installation",
+        "Sales",
+        "Retail",
+        "Assembly",
+        "Customer service"
+    ],
+    "experience": [
+        "May 2007",
+        "to",
+        "March 2008",
+        "Company Name City , State Airman; United States Air Force"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "SALES MANAGEMENT\nSummary\nI am submitting this resume to you because I am interested in the job opening that you have on the business side of"
+        },
+        {
+            "Degree": "MBA",
+            "Institution": "My name is James\nSauders and I have worked in retail sales in some form since I was 14 years old and the last six and a half of those years have been spent working\nfor AT&T in"
+        }
+    ],
+    "category": "SALES MANAGEMENT"
+}

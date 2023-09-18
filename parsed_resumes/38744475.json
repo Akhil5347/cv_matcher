@@ -1,0 +1,46 @@
+{
+    "skills": [
+        "Research",
+        "Adobe",
+        "Brand",
+        "Content",
+        "Communication",
+        "Spanish",
+        "Autocad",
+        "Marketing",
+        "Social media",
+        "Video",
+        "Interactive",
+        "Sales",
+        "Retail",
+        "English",
+        "Visual",
+        "Design"
+    ],
+    "experience": [
+        "Interior Designer 08/2013 to Current Company Name City , State",
+        "Interior Design Specialist at IKEA Sunrise store.",
+        "Supported growth and development as leader of local market research project.",
+        "Designed unique and centrally planned displays.",
+        "Created inspiring homes and rooms that showcase products in function and boost sales.",
+        "Worked with vitality to motivate people to visit the store more frequently",
+        "Worked to promote IKEA as leaders of life at home",
+        "Remodeled employee resource center to promote a better everyday life at work.",
+        "National Marketing Campaign IKEA Home Tour 12/2013 to 12/2014 Company Name City , State",
+        "Interior designer, host, video producer, and video editor for IKEA Home Tour marketing campaign.",
+        "Pioneered unique marketing project in various markets in the US."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor's Degree",
+            "Institution": "DESIGNER\nSummary\nTalented Designer and Retail Merchandiser skilled at using product placement and creating uniquely inspiring"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Collaborates with company\nheadquarters and sales managers to create product display solutions that boost sales"
+        }
+    ],
+    "category": "INTERIOR DESIGNER"
+}

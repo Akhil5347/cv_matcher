@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Design",
+        "Automation",
+        "Technical",
+        "Scripting",
+        "Analyze",
+        "Xml",
+        "Data analysis",
+        "Json",
+        "Aws",
+        "Research",
+        "Html",
+        "Soap",
+        "Jsp",
+        "Testing",
+        "Analytical",
+        "Database",
+        "Perl",
+        "Writing",
+        "Agile",
+        "Engineering",
+        "C",
+        "Web services",
+        "Linux",
+        "Html5",
+        "Proposal",
+        "Benchmarking",
+        "Sql",
+        "Threading",
+        "Analysis",
+        "Technical skills",
+        "Presentations",
+        "Unix",
+        "Java",
+        "Scrum",
+        "Test cases",
+        "Oracle",
+        "Css",
+        "Training",
+        "Interactive",
+        "Programming",
+        "Word",
+        "System",
+        "Visual"
+    ],
+    "experience": [
+        "Java intern , 06/2013 \u00ef\u00bc\u200b Current Company Name \u00ef\u00bc\u200b City , State",
+        "Designing and implementing Leave Management System for internal use(Spring MVC)",
+        "Receiving training in core java and J2EE technologies",
+        "Consuming and producing web services for a bank application",
+        "Creating Single Page Application in AngularJS",
+        "Test contractor (Performance and Benchmarking team) , 05/2014 \u00ef\u00bc\u200b 05/2015 Company Name \u00ef\u00bc\u200b City , State",
+        "Executed test cases and analyze performance numbers against benchmarks",
+        "Conducted root-cause analysis for performance degradation in controller firmware builds by running continuous performance verification",
+        "(PCV) tests daily.",
+        "Participated in scrum meetings",
+        "Automated using Action Word Script (AWS), batch script, Java ( Member of automation team)",
+        "Graduate Research Assistant , 12/2013 \u00ef\u00bc\u200b 05/2014 Company Name \u00ef\u00bc\u200b City , State",
+        "Managed and maintained NIAR composites database",
+        "Created charts and updated the database",
+        "Wrote macros for doing data analysis"
+    ],
+    "company_names": [
+        "Oracle"
+    ],
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "INTERN\nCareer Overview\nDeveloper"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Education\nMay 2015\n \nWichita State University"
+        }
+    ],
+    "category": "JAVA INTERN"
+}

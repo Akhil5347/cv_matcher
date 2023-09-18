@@ -1,0 +1,101 @@
+{
+    "skills": [
+        "Sdlc",
+        "Banking",
+        "Automation",
+        "Crm",
+        "Technical",
+        "Xml",
+        "Tax",
+        "Research",
+        "Workflow",
+        "Sales",
+        "Servers",
+        "Ibm",
+        "Communication",
+        "Testing",
+        "Database",
+        "English",
+        "Information security",
+        "Documentation",
+        "Windows",
+        "Engineering",
+        "International",
+        "Redhat",
+        "C++",
+        "Payments",
+        "C",
+        "Marketing",
+        "Plan",
+        "Market research",
+        "Ui",
+        "Linux",
+        "Information technology",
+        "Retail",
+        "Requests",
+        "Analysis",
+        "Sql",
+        "Installation",
+        "Migration",
+        "Visio",
+        "Process",
+        "Cloud",
+        "Db2",
+        "Mobile",
+        "Click",
+        "Java",
+        "Hardware",
+        "Troubleshooting",
+        "Healthcare",
+        "Ms project",
+        "Transactions",
+        "Pdf",
+        "Test cases",
+        "Oracle",
+        "Reports",
+        "Training",
+        "Sap",
+        "Erp",
+        "Security",
+        "System",
+        "Html"
+    ],
+    "experience": [
+        "Business Analyst Sr. Technical Business Analyst Company Name",
+        "SDLC Jul 2011 to Dec 2013",
+        "Company Name",
+        "Requirement Gathering Requirement Analysis Release management Product management Product implementation role BRS analysis"
+    ],
+    "company_names": [
+        "Alkem Labs",
+        "Oracle"
+    ],
+    "total_experience": 2.42,
+    "education": [
+        {
+            "Degree": "master data",
+            "Institution": "ANALYST"
+        },
+        {
+            "Degree": "master",
+            "Institution": "TECHNICAL BUSINESS ANALYST\nHighlights\nC"
+        },
+        {
+            "Degree": "Master Data",
+            "Institution": "Back Ends"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Oracle 9i, 10g, 11gRII,MS SQL"
+        },
+        {
+            "Degree": "mba",
+            "Institution": "DB2\nComputer"
+        },
+        {
+            "Degree": "master",
+            "Institution": "UML\nWeb Designing"
+        }
+    ],
+    "category": "BUSINESS ANALYST"
+}

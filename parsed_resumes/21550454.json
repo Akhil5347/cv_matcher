@@ -1,0 +1,41 @@
+{
+    "skills": [
+        "System",
+        "Transactions",
+        "Teaching",
+        "Retail",
+        "Testing",
+        "Administration",
+        "Correspondence",
+        "Schedules",
+        "Reconciliation",
+        "Communication",
+        "Accounting",
+        "Operations",
+        "Scheduling",
+        "Payroll",
+        "Ordering",
+        "Requests",
+        "Reporting",
+        "Training",
+        "Psychology"
+    ],
+    "experience": [
+        "Kindergarten Teacher",
+        "August 2011 to Current Company Name \u00ef\u00bc\u200b City , State",
+        "Served as Team leader for three years."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "TEACHER\nSummary\nI have been an elementary educator for Henrico County Public Schools for 16"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "I have taught Head Start, Federal Preschool Programs, first\ngrade and"
+        }
+    ],
+    "category": "KINDERGARTEN TEACHER"
+}

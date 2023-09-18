@@ -1,0 +1,34 @@
+{
+    "skills": [
+        "Engineering",
+        "Accounting",
+        "Training",
+        "Billing",
+        "Safety",
+        "R",
+        "Drafting",
+        "Analyze",
+        "Health",
+        "Distribution",
+        "Construction",
+        "Word",
+        "Schematics",
+        "Design",
+        "Cad",
+        "System",
+        "Database",
+        "Excel",
+        "Autocad",
+        "Requests"
+    ],
+    "experience": [
+        "Engineering Assistant , 08/2006 to 12/2014 Company Name \u00ef\u00bc\u200b City , State",
+        "Utilized company computers and records to obtain information for the design and distribution of circuit service orders.",
+        "Interfaced with other organizations in order to facilitate accurate work order designs.",
+        "Used engineering methods, procedures and databases to prepare designs."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [],
+    "category": "Engineering Assistant"
+}

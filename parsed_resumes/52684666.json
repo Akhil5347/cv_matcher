@@ -1,0 +1,37 @@
+{
+    "skills": [
+        "Cpr",
+        "C",
+        "Research",
+        "Hospital",
+        "Safety",
+        "Technical",
+        "Reports",
+        "Therapeutic",
+        "Schedule",
+        "Certification",
+        "Protocols",
+        "Communication",
+        "Filing",
+        "Operations",
+        "Scheduling",
+        "Training",
+        "Supervisor",
+        "Fitness",
+        "Health"
+    ],
+    "experience": null,
+    "company_names": null,
+    "total_experience": 0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "COORDINATOR\nProfessional Summary\nA position as a Registered Nurse working with adults in a setting that will allow me to use both my nutrition and nursing education to provide acute,\ncomprehensive care to patients in a way that allows for my personal and professional growth in the field of nursing\nSkills\nWork History\nCare Coordinator"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Current\n \nCompany Name"
+        }
+    ],
+    "category": "Professional Summary"
+}

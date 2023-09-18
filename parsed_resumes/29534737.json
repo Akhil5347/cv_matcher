@@ -1,0 +1,46 @@
+{
+    "skills": [
+        "Design",
+        "Transportation",
+        "Supervisor",
+        "Instrumentation",
+        "Schedules",
+        "Testing",
+        "Root cause",
+        "Budget",
+        "Engineering",
+        "Aviation",
+        "Operations",
+        "Product quality",
+        "Process",
+        "Inventory",
+        "Troubleshooting",
+        "Scheduling",
+        "Assembly",
+        "Schematics",
+        "Controls",
+        "Security",
+        "Training",
+        "Visual"
+    ],
+    "experience": [
+        "AVIATION ORDNANCEMAN",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Preformed maintenance on the S-3B Viking aircraft while stationed Various duties included general maintenance of the aircraft, repair of",
+        "broken wires, reading of blueprints and schematics, computer checks, repair of several different control boxes that are connected to the",
+        "computers which operate on the systems that was related to my field of work. Treating and preserving the aircraft from different types of",
+        "corrosion, loading of different types of ordinance, such as bombs, missals, and various types of counter measure equipment.",
+        "Obtained several types of licenses that pertained to my field, such as ordnance driver which allowed transportation of bombs and missiles",
+        "from holding areas final destination for loading. Many types of release checks which included testing the aircraft to make sure that weapons",
+        "loaded would release properly in a safe condition. Upkeep of equipment that needed calibration."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master",
+            "Institution": "SUPERVISOR"
+        }
+    ],
+    "category": "Value Stream"
+}

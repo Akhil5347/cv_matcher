@@ -1,0 +1,30 @@
+{
+    "skills": [
+        "International",
+        "Teaching",
+        "Communication",
+        "Math",
+        "Cpr"
+    ],
+    "experience": [
+        "09/2014 to Current",
+        "Assistant Teacher Company Name \u00ef\u00bc\u200b City , State"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "TEACHER\nSummary\nAn organized professional, with experience fostering a cohesive student learning"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Experience working with students of all"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Uses effective and efficient methods of teaching while focusing on the individual needs of the"
+        }
+    ],
+    "category": "ASSISTANT TEACHER"
+}

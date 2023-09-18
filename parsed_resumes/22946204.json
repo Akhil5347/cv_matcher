@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Excel",
+        "R",
+        "Design",
+        "Editing",
+        "Automation",
+        "Robot",
+        "Data analysis",
+        "Research",
+        "Machine learning",
+        "Operating systems",
+        "Database",
+        "English",
+        "Solidworks",
+        "Windows",
+        "Engineering",
+        "C",
+        "Autocad",
+        "Matlab",
+        "Analysis",
+        "Sql",
+        "Statistics",
+        "Os",
+        "Experiments",
+        "Construction",
+        "Java",
+        "Cad",
+        "Algorithms",
+        "Assembly",
+        "Modeling",
+        "Economics",
+        "Python",
+        "Matrix",
+        "Mechanical engineering",
+        "Sql server",
+        "Programming",
+        "Word",
+        "Electrical",
+        "System"
+    ],
+    "experience": [
+        "Company Name June 2016 to Current R&D Product Development Engineer",
+        "City",
+        "Design and build a tail-sitter VTOL(vertical take off and landing) UAV(unmanned aerial vehicle) which.",
+        "takes off and lands vertically and travels horizontally.",
+        "Main duties include but not limit to aerodynamics.",
+        "modeling, UAV control system design, mechanical manufacturing, simulation and tuning/experiments.",
+        "Company Name May 2015 to February 2016 Research assistant",
+        "City"
+    ],
+    "company_names": null,
+    "total_experience": 0.75,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "Python"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Java"
+        }
+    ],
+    "category": "Highlights Prog"
+}

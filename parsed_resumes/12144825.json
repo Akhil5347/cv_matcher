@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Excel",
+        "System administration",
+        "Design",
+        "Technical",
+        "Xml",
+        "Administration",
+        "Postgresql",
+        "Html",
+        "Docker",
+        "Operating systems",
+        "Communication",
+        "Testing",
+        "Database",
+        "Perl",
+        "Javascript",
+        "Engineering",
+        "Api",
+        "C++",
+        "Mysql",
+        "Markdown",
+        "C",
+        "Vim",
+        "Linux",
+        "Debugging",
+        "Ecommerce",
+        "Analysis",
+        "Sql",
+        "Wordpress",
+        "Visio",
+        "Nosql",
+        "Unix",
+        "Php",
+        "Access",
+        "Troubleshooting",
+        "Software engineering",
+        "Website",
+        "Python",
+        "Css",
+        "Analytics",
+        ".net",
+        "Intranet",
+        "Programming",
+        "Electrical",
+        "System",
+        "Visual"
+    ],
+    "experience": [
+        "Software Engineering Co-op 03/2010 to 12/2010 Company Name City , State",
+        "Wrote a Perl script that scanned a file directory tree and converted every file (proprietary file format) into an Excel compatible CSV format.",
+        "Designed an algorithm in Visual Basic to identify and make changes to the bad sectors in the data."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "ENGINEERING"
+        }
+    ],
+    "category": "SOFTWARE ENGINEERING"
+}

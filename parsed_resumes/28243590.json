@@ -1,0 +1,46 @@
+{
+    "skills": [
+        "Accounting",
+        "Word",
+        "German",
+        "System",
+        "Hotel",
+        "Mining",
+        "Migration",
+        "Consulting",
+        "Reports",
+        "Database",
+        "Training",
+        "Analysis",
+        "Economics",
+        "Forecasting",
+        "Finance",
+        "Portfolio management"
+    ],
+    "experience": [
+        "Consultant , 12/1996 to Current Company Name \u00ef\u00bc\u200b City",
+        "Conducted risk and impairment analyses of IFC's portfolio of loan and equity investments and recommended to senior management the",
+        "specific loss reserves to cover impaired individual investments.",
+        "Analyzed financial statements of client companies and coordinated with Investment Officers to validate information from IFC files.",
+        "Participated in the development of a new loan loss reserve forecasting tool based on loan migration analysis.",
+        "Took part in the preparation of the FY97 Loss Reserve Review Paper.",
+        "Participated in discussions on the status of investee companies with the Investment Departments.",
+        "Prepared project status reports to external auditors.",
+        "Policy Analyst , 03/1991 to 07/1994 Company Name \u00ef\u00bc\u200b City",
+        "Managed a team of seven professionals to establish and operate one of the Company's first joint ventures with the Austrian partner Berthold",
+        "& Stempel.",
+        "Worked on the introduction of leasing in the hotel and catering divisions of the company.",
+        "Worked with Senior Management on the introduction of a new accounting system.",
+        "Lecturer , 01/1987 to 03/1991 Company Name",
+        "Taught a course in Microeconomics."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "MBA",
+            "Institution": "Summary\nOver 20 years experience working with IFC on many sectors"
+        }
+    ],
+    "category": "IFC Portfolio"
+}

@@ -1,0 +1,53 @@
+{
+    "skills": [
+        "Excel",
+        "Recruiting",
+        "Technical",
+        "Networking",
+        "Staffing",
+        "Powerpoint",
+        "Conversion",
+        "Sales",
+        "Schedules",
+        "Communication",
+        "Teaching",
+        "Budget",
+        "Audit",
+        "Engineering",
+        "Math",
+        "Updates",
+        "Installation",
+        "Analysis",
+        "Improvement",
+        "Process",
+        "Process improvement",
+        "Content",
+        "Logistics",
+        "Scheduling",
+        "Reports",
+        "Programming",
+        "Travel",
+        "Training",
+        "Visual"
+    ],
+    "experience": null,
+    "company_names": [
+        "Substitute Teacher"
+    ],
+    "total_experience": 0,
+    "education": [
+        {
+            "Degree": "mba",
+            "Institution": "COORDINATOR ASSOCIATE\nProfessional Summary"
+        },
+        {
+            "Degree": "mba",
+            "Institution": "CES Talent Management"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Training and Development Coordinator who efficiently develops training processes and procedures for human resources"
+        }
+    ],
+    "category": "COORDINATOR ASSOCIATE"
+}

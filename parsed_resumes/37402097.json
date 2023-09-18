@@ -1,0 +1,34 @@
+{
+    "skills": [
+        "Payments",
+        "Scheduling",
+        "Billing",
+        "Coding",
+        "Technical",
+        "Microsoft office suite",
+        "Communication",
+        "Positioning",
+        "Training",
+        "Certification"
+    ],
+    "experience": [
+        "01/2013",
+        "Teacher Company Name \u00ef\u00bc\u200b City , State",
+        "Taught Letters, Numbers, and Arts and Crfts to 3 and 4 year olds.",
+        "Monitored children during general classroom periods such as lunch and nap times.",
+        "Cleaned all areas of the classroom at the end of the day.",
+        "01/2012",
+        "Medical Assistant Company Name \u00ef\u00bc\u200b City , State",
+        "Measured and Recorded vitals, Assisted Doctor with examinations, Administered injections, Cleaned and sterilized equipment, and",
+        "performed light front office duties, Documented patient information with portable computers and EMR software, and Provided patient",
+        "education.",
+        "01/2011",
+        "Medical Assistant Company Name \u00ef\u00bc\u200b City , State",
+        "externship Measured & Recorded Vitals, Performed range-of-motion exercises, Administered ultra-sound exams, prepared examination",
+        "rooms, and provided excellent patient care."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [],
+    "category": "Medical Assistant"
+}

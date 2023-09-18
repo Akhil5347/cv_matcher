@@ -1,0 +1,39 @@
+{
+    "skills": [
+        "Billing",
+        "Coding",
+        "Transactions",
+        "Process",
+        "Reports",
+        "Training",
+        "Sales",
+        "Certification"
+    ],
+    "experience": [
+        "Company Name August 2007 to September 2009 Chef",
+        "City , State",
+        "Prepped food for catered events such as; weddings, parties and business luncheons.",
+        "Set-up tables and chairs for banquet and dining space.",
+        "Executed banquet style and plated lunches and dinner.",
+        "Company Name October 2007 to September 2009 Chef/Assistant Manager",
+        "City , State",
+        "Prep and cook for lunch service Catered business lunches for CEO of the Museum Manage daily sales reports Train new personnel, both",
+        "front and back of the house Track weekly food cost.",
+        "Company Name October 2006 to October 2007 Cook",
+        "City , State",
+        "Prep for dinner service.",
+        "Prep and cook for banquet parties of 50 or more clients.",
+        "Line cook during dinner service.",
+        "Bake desserts for both the restaurant and banquet services.",
+        "Company Name April 2004 to August 2005 Cashier",
+        "City , State",
+        "Process customer transactions.",
+        "Help customers apply for Sears credit cards.",
+        "Process customer return of merchandise.",
+        "Sort, fold, put away unwanted merchandise."
+    ],
+    "company_names": null,
+    "total_experience": 6.33,
+    "education": [],
+    "category": "CHEF Professional"
+}

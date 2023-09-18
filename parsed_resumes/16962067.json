@@ -1,0 +1,33 @@
+{
+    "skills": [
+        "Plan",
+        "Communication",
+        "Teaching",
+        "Networking",
+        "Policies",
+        "Writing",
+        "Engagement",
+        "Administration",
+        "Math",
+        "Presentations",
+        "Training"
+    ],
+    "experience": null,
+    "company_names": null,
+    "total_experience": 0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "PRINCIPAL\nProfessional Summary\nCommitted and passionate"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "Builds\ntrusting, authentic relationships with students, staff, and"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Believes in analyzing and synthesizing classroom, district, and state assessment\ndata to drive"
+        }
+    ],
+    "category": "Professional Summary"
+}

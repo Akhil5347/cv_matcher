@@ -1,0 +1,27 @@
+{
+    "skills": [
+        "Excel",
+        "Troubleshooting",
+        "Communication",
+        "Certification",
+        "Technical",
+        "English",
+        "Controls",
+        "Engineering",
+        "Spanish",
+        "Word",
+        "Aviation",
+        "Electrical",
+        "Training"
+    ],
+    "experience": [
+        "Company Name City , State Radiological Control Technician 01/2016 to Current",
+        "Provide radiological controls oversight of the deconstruction and remediation activities",
+        "Perform daily monitoring of radiological work, radiological surveying, environment sampling and evaluation, and aiding in the preparation of",
+        "documents that support the transfer of materials and equipment for disposal or release"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [],
+    "category": "NUCLEAR ENERGY ENGINEERING"
+}

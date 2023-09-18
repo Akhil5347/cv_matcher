@@ -1,0 +1,26 @@
+{
+    "skills": [
+        "Sales",
+        "Hospitality",
+        "Safety",
+        "Teaching",
+        "Communication",
+        "Requests",
+        "Improvement",
+        "Specifications",
+        "Math",
+        "Psychology",
+        "English",
+        "Health"
+    ],
+    "experience": null,
+    "company_names": null,
+    "total_experience": 0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "TEACHER\nProfessional Summary"
+        }
+    ],
+    "category": "PRESCHOOL TEACHER"
+}

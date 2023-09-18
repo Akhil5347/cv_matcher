@@ -1,0 +1,67 @@
+{
+    "skills": [
+        "Recruiting",
+        "Technical",
+        "Networking",
+        "Policies",
+        "Administration",
+        "Metrics",
+        "Litigation",
+        "Vendor management",
+        "Sales",
+        "Help desk",
+        "Servers",
+        "Finance",
+        "Psychology",
+        "Communication",
+        "Operating systems",
+        "English",
+        "Strategy",
+        "Budget",
+        "Windows",
+        "Engineering",
+        "International",
+        "Marketing",
+        "C",
+        "Presentation",
+        "Compliance",
+        "Information technology",
+        "Requests",
+        "Technical issues",
+        "Analysis",
+        "Installation",
+        "Improvement",
+        "Os",
+        "Migration",
+        "Billing",
+        "Kpi",
+        "Process",
+        "Legal",
+        "Licensing",
+        "Hardware",
+        "Troubleshooting",
+        "Acquisitions",
+        "Budgeting",
+        "System",
+        "Business strategy",
+        "Active directory",
+        "Security",
+        "Training"
+    ],
+    "experience": null,
+    "company_names": [
+        "Microsoft"
+    ],
+    "total_experience": 0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "IT MANAGER\nProfessional Summary\nExceptional IT Manager talented at personnel management, vendor management and business strategy"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Languages"
+        }
+    ],
+    "category": "REGIONAL IT"
+}

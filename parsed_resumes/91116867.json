@@ -1,0 +1,41 @@
+{
+    "skills": [
+        "Tax",
+        "Accounting",
+        "Inventory",
+        "Journal entries",
+        "Travel",
+        "Logistics",
+        "Communication",
+        "Real estate",
+        "Analysis",
+        "Vendors",
+        "Filing",
+        "Sales",
+        "Finance",
+        "Customer service"
+    ],
+    "experience": [
+        "November 2016",
+        "to",
+        "Current",
+        "Company Name City , State Color Consultant",
+        "Sephora is one of the largest cosmetic retailers world wide. As a Color Consultant my daily responsibilities include:",
+        "Achieving the stores daily sales goal by assisting clients with their product purchases.",
+        "Analyzing skin condition and make appropriate product recommendations.",
+        "Working as a team with colleagues and participating in weekly competitions/games, themes, etc.",
+        "Stocking shelves, supplies, and organizing displays.",
+        "Developing positive customer relationships through friendly greetings and excellent service.",
+        "June 2012",
+        "to",
+        "September 2016",
+        "Company Name City , State Office Manager",
+        "McHugh CPA Group is a family owned accounting office located in Atlanta, GA. Microsoft proficency, meticulous attention to detail, strong"
+    ],
+    "company_names": [
+        "Microsoft"
+    ],
+    "total_experience": 0.0,
+    "education": [],
+    "category": "COLOR CONSULTANT"
+}

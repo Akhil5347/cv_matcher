@@ -1,0 +1,43 @@
+{
+    "skills": [
+        "Word",
+        "Excel",
+        "Microsoft office",
+        "Public health",
+        "Analytical",
+        "System",
+        "Teaching",
+        "Communication",
+        "Administration",
+        "Healthcare",
+        "Cpr",
+        "Microsoft excel",
+        "Microsoft word",
+        "Filing",
+        "English",
+        "Health",
+        "Customer service"
+    ],
+    "experience": [],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master's",
+            "Institution": "INSTRUCTIONAL ASSISTANT\nExperience\nHealthcare Instructional Assistant"
+        },
+        {
+            "Degree": "Master's",
+            "Institution": "Current\n \nCompany Name"
+        },
+        {
+            "Degree": "Bachelor's",
+            "Institution": "City\n \n, \nState\n \nPerform G tube feedings and Straight Catheterization procedures on Special Needs and General Education Elementary School"
+        },
+        {
+            "Degree": "Bachelor's Degree",
+            "Institution": "Assist Teacher in"
+        }
+    ],
+    "category": "Healthcare Instructional"
+}

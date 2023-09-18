@@ -1,0 +1,50 @@
+{
+    "skills": [
+        "Retention",
+        "Daily operations",
+        "Operations",
+        "Expenses",
+        "Budgeting",
+        "Policies",
+        "Communication",
+        "Orange",
+        "Sales goals",
+        "Training",
+        "Budget",
+        "Sales",
+        "Fitness",
+        "Health",
+        "Customer service",
+        "Design",
+        "Financial management"
+    ],
+    "experience": [
+        "06/2006 to 08/2015",
+        "Owner/Operator Company Name \u00ef\u00bc\u200b City , State",
+        "Started and managed the premier functional training studio in Orange County, CA.",
+        "Trained clients one-on-one to achieve health and fitness goals.",
+        "01/2002 to 06/2006",
+        "General Manager/Master Trainer Company Name \u00ef\u00bc\u200b City , State Managed leading private personal training studio in Orange County, CA.",
+        "02/1997 to 10/2001",
+        "General Manger Company Name \u00ef\u00bc\u200b City , State",
+        "Developed within each department (group exercise, personal training, sales, operations).",
+        "until promoted to upper management."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master Trainer",
+            "Institution": "Summary"
+        },
+        {
+            "Degree": "Master",
+            "Institution": "Proficient in sales, budgeting, and customer"
+        },
+        {
+            "Degree": "Bachelor",
+            "Institution": "General Manager of an elite"
+        }
+    ],
+    "category": "OPERATOR Summary"
+}

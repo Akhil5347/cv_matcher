@@ -1,0 +1,30 @@
+{
+    "skills": [
+        "Recruiting",
+        "Budgeting",
+        "Database",
+        "System",
+        "Reports",
+        "Staffing",
+        "Accounting",
+        "Payroll",
+        "Travel",
+        "Legal",
+        "Training",
+        "Purchasing"
+    ],
+    "experience": [
+        "Client Advocate / Escalation Specialist Nov 2015 to May 2016",
+        "Company Name - City , State",
+        "Takeover of escalated calls from customer service"
+    ],
+    "company_names": null,
+    "total_experience": 0.5,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "ADVOCATE"
+        }
+    ],
+    "category": "CLIENT ADVOCATE"
+}

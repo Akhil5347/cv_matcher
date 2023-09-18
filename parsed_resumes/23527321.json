@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "Hardware",
+        "Accounting",
+        "Business process",
+        "Analytical",
+        "Sales",
+        "Account management",
+        "Information technology",
+        "Operations",
+        "Acquisition",
+        "Administration",
+        "Analytics",
+        "Inventory",
+        "Procurement",
+        "Training",
+        "Pharmaceutical",
+        "Design",
+        "Strategy",
+        "Process",
+        "Warehouse",
+        "Computer science",
+        "Analysis",
+        "Rfp",
+        "Leadership development",
+        "Healthcare",
+        "Communication",
+        "Marketing",
+        "Supply chain",
+        "System",
+        "Distribution",
+        "Budget",
+        "Logistics",
+        "Engineering",
+        "Erp",
+        "International",
+        "Lan",
+        "Sap"
+    ],
+    "experience": [
+        "Head, Information Technology and Information Center",
+        "March 2015 Company Name - City , State"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "INFORMATION TECHNOLOGY AND INFORMATION CENTER\nExecutive Profile"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "IT organizations during a"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Fortune 500"
+        }
+    ],
+    "category": "INFORMATION TECHNOLOGY"
+}

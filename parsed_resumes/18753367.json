@@ -1,0 +1,65 @@
+{
+    "skills": [
+        "Engineering",
+        "Program management",
+        "Troubleshooting",
+        "Training",
+        "Safety",
+        "Security",
+        "Aviation",
+        "Sap",
+        "Schedules",
+        "Lean",
+        "Sharepoint",
+        "International",
+        "Analytical",
+        "Prototype",
+        "Analyze",
+        "Status reports",
+        "Communication",
+        "Access",
+        "Specifications",
+        "Compliance",
+        "Reports",
+        "Plan",
+        "Quality control",
+        "System",
+        "Schedule",
+        "Workflow",
+        "Project management",
+        "Process",
+        "Technical",
+        "Budget",
+        "Installation",
+        "Logistics",
+        "Repairs",
+        "C",
+        "Electrical",
+        "Publishing",
+        "Risk management"
+    ],
+    "experience": [
+        "returning aircraft to working service.",
+        "Accomplish Isochronal inspections during Phase dock.",
+        "Provisioning Analyst",
+        "Analyzes technical data and reports to determine spares and support equipment provisioning requirements.",
+        "Reviews site survey results and letters of offer and acceptance and formulates specific recommendations for spare/repair parts and support",
+        "equipment.",
+        "Originate support plans for offer to potential customers and provide technical assistance to existing customer personnel.",
+        "Review BOM (Bill of Material) to ensure contractual obligations are met.",
+        "Review drawing revisions for BOM and manufacturing changes."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "MBA\n \nEastern",
+            "Institution": "PROJECT MANAGER III\nSummary"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Field\nEngineer, Maintenance Support Engineer, A&P Mechanic, and Avionics Technician on various types of rotary and fixed wing"
+        }
+    ],
+    "category": "III Summary"
+}

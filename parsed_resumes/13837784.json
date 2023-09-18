@@ -1,0 +1,49 @@
+{
+    "skills": [
+        "Video",
+        "Sales",
+        "Testing",
+        "Mobile",
+        "Word",
+        "Strategy",
+        "Excel",
+        "Content",
+        "Writing",
+        "Reports",
+        "Account management",
+        "Marketing",
+        "Powerpoint",
+        "Html",
+        "Analytics",
+        "Communication",
+        "Money",
+        "Brand",
+        "Facebook",
+        "Click",
+        "Wordpress",
+        "Digital media",
+        "Budget",
+        "Twitter"
+    ],
+    "experience": [
+        "Company Name City , State Digital Media Buyer 03/2016 to Current",
+        "Oversees and co-manages PPC campaigns across multiple search engine platforms for three beauty school directory websites.",
+        "Creates, implements, and manages all organic social profiles and paid social campaigns (Facebook, Instagram, Twitter, Pinterest, etc.)",
+        "strategies for beauty school directory websites.",
+        "Organizes and creates monthly blog and photo content for social profiles and blog site.",
+        "Partners with Creative Director to create original content and to promote new brand across social platforms.",
+        "Successfully increased brand awareness on Instagram and increased follower growth by over 400% within the first month of managing",
+        "social account.",
+        "Attends online and local marketing seminars to actively keep up with industry changes and trends.",
+        "Company Name City , State Digital Media Buyer 11/2014 to 03/2016"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "MEDIA BUYER\nProfessional Summary\nVersatile digital"
+        }
+    ],
+    "category": "DIGITAL MEDIA"
+}

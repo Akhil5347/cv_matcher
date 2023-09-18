@@ -1,0 +1,37 @@
+{
+    "skills": [
+        "Email",
+        "Indesign",
+        "Plan",
+        "Troubleshooting",
+        "Teaching",
+        "Outreach",
+        "Writing",
+        "Reports",
+        "Visual",
+        "Psychology",
+        "Analysis",
+        "Illustrator",
+        "Video",
+        "Photography",
+        "Photoshop",
+        "Design"
+    ],
+    "experience": [
+        "Room Attendant Mar 2012 to Jul 2013",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Seasonal Shoe Associate Nov 2011 to Feb 2012",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Shoe Associate Oct 2009 to Nov 2011",
+        "Company Name \u00ef\u00bc\u200b City , State"
+    ],
+    "company_names": null,
+    "total_experience": 3.67,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "TEACHER\nSummary\nEnthusiastic artists who loves both traditional art and digital"
+        }
+    ],
+    "category": "SUBSTITUTE TEACHER"
+}

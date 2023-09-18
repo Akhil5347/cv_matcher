@@ -1,0 +1,62 @@
+{
+    "skills": [
+        "Java",
+        "Process",
+        "Scripting",
+        "C",
+        "Construction",
+        "Mysql",
+        "Word",
+        "Excel",
+        "Powerpoint",
+        "Programming",
+        "Photoshop",
+        "Html",
+        "Css",
+        "Xml",
+        "Database",
+        "Specifications",
+        "Algorithms",
+        "Design",
+        "Php",
+        "Adobe",
+        "Repairs",
+        "C#",
+        "Javascript",
+        "Website",
+        "Networking",
+        "Training",
+        "Analysis",
+        "Interactive",
+        "Visual"
+    ],
+    "experience": [
+        "08/2006 to Current",
+        "Construction Worker Company Name \u00ef\u00bc\u200b City , State",
+        "Calculated needed materials and estimated time to complete tasks",
+        "Reviewed plans and requirements and translated those into goals",
+        "Measured, fabricated, and installed various building materials",
+        "Reduced job site errors and waste by implementing a more systematic and mathematical approach to the building process",
+        "05/2004 to 06/2006",
+        "Property Maintenance Technician Company Name \u00ef\u00bc\u200b City , State",
+        "Performed structural repairs and upgrades at multiple rental properties",
+        "Ensured that the interior, exterior, and landscape of properties were clean and visually appealing",
+        "Resolved tenant complaints in a timely manner",
+        "01/2000 to 03/2004",
+        "Painter Company Name \u00ef\u00bc\u200b City , State",
+        "Prepared surfaces to receive coatings in accordance to specifications",
+        "Applied the appropriate primer coatings for substrate and finish",
+        "Applied finish coatings in accordance with manufacturer and customer specifications"
+    ],
+    "company_names": [
+        "Microsoft"
+    ],
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "WORKER\nObjective\nWEB DEVELOPER"
+        }
+    ],
+    "category": "CONSTRUCTION WORKER"
+}

@@ -1,0 +1,38 @@
+{
+    "skills": [
+        "Regulations",
+        "Tv",
+        "Access",
+        "Inventory",
+        "Hardware",
+        "Safety",
+        "Communication",
+        "Specifications",
+        "Saws",
+        "Compliance",
+        "Construction",
+        "Health"
+    ],
+    "experience": [],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "master carpenters",
+            "Institution": "APPRENTICE\nProfessional Summary\nFormer construction and carpentry worker committed to"
+        },
+        {
+            "Degree": "master carpenter",
+            "Institution": "Over 4 years of"
+        },
+        {
+            "Degree": "master carpenters",
+            "Institution": "Dedicated work ethic and exceptional attendance"
+        },
+        {
+            "Degree": "master carpenter",
+            "Institution": "I am\nmotivated to learn new trades and"
+        }
+    ],
+    "category": "CARPENTER APPRENTICE"
+}

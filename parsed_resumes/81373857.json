@@ -1,0 +1,41 @@
+{
+    "skills": [
+        "Word",
+        "Adobe",
+        "Excel",
+        "Security",
+        "Powerpoint",
+        "Math",
+        "Marketing",
+        "Microsoft word",
+        "Information technology",
+        "Retail",
+        "Health",
+        "Sports"
+    ],
+    "experience": [
+        "Company Name City , State Head Chef 07/2012 to 11/2015",
+        "Promptly reported complaints to a member of the management team.",
+        "Up-sold additional menu items, beverages and desserts to increase restaurant profits.",
+        "Communicated clearly and positively with co-workers and management.",
+        "Served fresh, hot food with a smile in a timely manner.",
+        "Cut and chopped food items and cooked on a grill or in fryers.",
+        "Company Name City , State Manager 07/2010",
+        "Worked on a Building campaign and domestic tasks.",
+        "Recorded customer orders and repeated them back in a clear, understandable manner.",
+        "Took necessary steps to meet customer needs and effectively resolve service issues.",
+        "Company Name City , State 01/2010 to 01/2011",
+        "Worked directly with customers and employees Attending to front desk and answering calls Engaging in invigorating task in the workplace",
+        "Rock Creek Sports Club January 2012 Floor Management Assisted Managers Clean, Replaced tiles Marketing i.e.",
+        "create/distribute marketing tools to attract customers Maintain floor equipment."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "CHEF\nSummary\nMature college"
+        }
+    ],
+    "category": "Attended Towson University"
+}

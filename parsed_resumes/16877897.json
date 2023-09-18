@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Recruitment",
+        "Employee engagement",
+        "Operating systems",
+        "Distribution",
+        "Matrix",
+        "System",
+        "Process",
+        "Cost reduction",
+        "Compliance",
+        "Sports",
+        "Word",
+        "Excel",
+        "Plan",
+        "Technical",
+        "Safety",
+        "Engagement",
+        "Administration",
+        "Security",
+        "Reports",
+        "Time management",
+        "Html",
+        "Css",
+        "Analytical",
+        "Windows",
+        "Human resource",
+        "Iso",
+        "Communication",
+        "Database",
+        "Analytical skills",
+        "Audit",
+        "Mis",
+        "Sourcing",
+        "Operations",
+        "Scheduling",
+        "Payroll",
+        "Sql",
+        "Javascript",
+        "Training",
+        "Sap",
+        "Budget"
+    ],
+    "experience": [
+        "Sourcing suitable profiles from various sources as per requirement.",
+        "Interviewing potential candidates to do an interest check for the requirement and judge their suitability.",
+        "Coordinating with client to confirm profile suitability and scheduling interviews till final selection.",
+        "Keeping a record of operations and deal with various recruitment enquires.",
+        "Keeping excellent relationships with clients whilst helping them find the best employees for their business."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "master new",
+            "Institution": "MANAGER"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "HR"
+        },
+        {
+            "Degree": "MBA",
+            "Institution": "Professional Summary\nLooking for a challenging position, which utilizes my skills, hard work and provides opportunities to learn and contribute to the"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "I want\nto see myself as an active contributor to a team of ambitious people and thereby enhance my knowledge and"
+        }
+    ],
+    "category": "Human Resource"
+}

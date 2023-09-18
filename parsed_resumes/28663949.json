@@ -1,0 +1,35 @@
+{
+    "skills": [
+        "Adobe",
+        "Architecture",
+        "Process",
+        "Project management",
+        "Budget",
+        "Drafting",
+        "Installation",
+        "Cad",
+        "Sales",
+        "Construction",
+        "Finance",
+        "Photoshop",
+        "Design",
+        "Sourcing"
+    ],
+    "experience": [
+        "09/2015 - Current",
+        "Company Name \u00ef\u00bc\u200b City , State Senior Interior Designer",
+        "Conferring with clients to determine their specific needs.",
+        "Create design concepts and space planning depending on client's needs and budget.",
+        "Drafting and create shop drawings in CAD.",
+        "Monitor installation process and service."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "INTERIOR DESIGNER\nSummary\nExperienced"
+        }
+    ],
+    "category": "INTERIOR DESIGNER"
+}

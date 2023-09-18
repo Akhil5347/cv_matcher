@@ -1,0 +1,61 @@
+{
+    "skills": [
+        "Hardware",
+        "Reports",
+        "Vendors",
+        "Active directory",
+        "Call center",
+        "Wifi",
+        "Mobile",
+        "Health",
+        "Tech support",
+        "Quality control",
+        "Troubleshooting",
+        "Budgeting",
+        "Windows",
+        "Cloud",
+        "Analysis",
+        "Scheduling",
+        "Installation",
+        "Contracts",
+        "Documentation",
+        "Agile",
+        "Communication",
+        "System",
+        "Technical issues",
+        "Technical",
+        "Protocols",
+        "Os",
+        "Schedules",
+        "Servers"
+    ],
+    "experience": [
+        "Analyzed system problems, performed troubleshooting, ensured connectivity and trained staff.",
+        "Key Performance: Managed and supported workstations on TCP/IP, VPN, and Wi-Fi networks, managed Active Directory, SCCM,",
+        "VOIP, Avaya PBX systems.",
+        "Managed and supported workstations in various locations with use of SMS (System management software) and remote tools such as VNC,",
+        "RDC and Active Directory Facilitated Adds/Moves/Changes on Avaya PBX telephone systems Supported the integration of new",
+        "technologies such as Cloud printing and CSO (Remote Enterprise) into operation.",
+        "Maintenance & Upgrades: Performed weekly health checks via SMS and documented results for problem resolutions Performed routine",
+        "maintenance on workstations, IP phones, Xerox copiers, HP printers and laptop computers.",
+        "Performed all hardware/software upgrades servers, workstations, copiers and printers.",
+        "Acted as a liaison to resolve all technical issues for vendors, managers, trainers etc.",
+        "Developed and maintained documentation needed by support staff, including troubleshooting steps, installation instructions, new tools",
+        "overviews, and contact lists.",
+        "Responsible for notifying users of network/system issues.",
+        "Established solid work relationships with management, technical staff, vendors, end users."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "MANAGER\nSummary\nTechnical Support Professional skilled at resolving complex customer service issues in a timely"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Enjoys troubleshooting to find solutions to\ntechnical"
+        }
+    ],
+    "category": "PROJECT MANAGER"
+}

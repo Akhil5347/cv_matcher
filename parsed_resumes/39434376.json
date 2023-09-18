@@ -1,0 +1,24 @@
+{
+    "skills": [
+        "Illustrator",
+        "Design",
+        "Spanish"
+    ],
+    "experience": [
+        "Company Name September 2015 to Current Graphic Designer and Illustrator",
+        "City , State A custom paper company designing primarily wedding correspondence\u00c2",
+        "Company Name May 2015 to August 2015 Sigma Counselor",
+        "City , State",
+        "Company Name June 2012 to July 2013 Counselor",
+        "City , State"
+    ],
+    "company_names": null,
+    "total_experience": 1.33,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "DESIGNER AND ILLUSTRATOR\nSummary\nI was raised in a Christian home in Jacksonville"
+        }
+    ],
+    "category": "ILLUSTRATOR Summary"
+}

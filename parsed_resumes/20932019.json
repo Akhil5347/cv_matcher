@@ -1,0 +1,41 @@
+{
+    "skills": [
+        "Payroll",
+        "Prototype",
+        "Fabrication",
+        "Technical",
+        "Engineering",
+        "Modeling",
+        "Process",
+        "Shell",
+        "Mathematics",
+        "Training",
+        "Solidworks",
+        "Analyze",
+        "Cad",
+        "Sales",
+        "Autocad",
+        "Assembly",
+        "Design"
+    ],
+    "experience": [
+        "sheet metal parts and plastic parts 3D modeling in large assemblies (complete trucks).",
+        "June 2006",
+        "to",
+        "August 2007",
+        "Company Name City , State Project Engineer/Technical Customer Service Representative",
+        "Responsible for cradle to grave design of after-market and OEM motorcycle accessories Specialized in sheet metal and tubing products 3D",
+        "design using Solidworks and Inventor 2D drawings using Solidworks , AutoCAD, and Inventor Responsible for hand fabrication of",
+        "prototype parts using shop and production machines Responsible for design and fabrication of all production tooling and fixtures",
+        "Responsible for finish requirements of parts such as polishing, chrome, powder coating, etc."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "DESIGNER\nSkills\nCatia V5 Solidworks\nInventor"
+        }
+    ],
+    "category": "CAD DESIGNER"
+}

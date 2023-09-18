@@ -1,0 +1,33 @@
+{
+    "skills": [
+        "Construction",
+        "Modeling",
+        "Process",
+        "Training",
+        "Sales",
+        "Lighting",
+        "Photoshop",
+        "Design",
+        "Testing"
+    ],
+    "experience": [
+        "01/2017",
+        "VR Designer Company Name \u00ef\u00bc\u200b City , State",
+        "Help facilitate the process of Game Development using Unity 5 and virtual reality.",
+        "T.A.",
+        "for Boeing Game Development course at Chronos Global Academy.",
+        "3D Modeler, Texture, Lighting and Sound special for Unity 5 and Unreal Engine 4.",
+        "Sales and Marktering of VR titles on Steam and Vive-port Construction, John Ewing.",
+        "01/2016",
+        "Game Tester Company Name \u00ef\u00bc\u200b City , State",
+        "Provided expertise in testing games.",
+        "Reported results and made sure the quality was production ready.",
+        "Worked with teams in game functionality using multi language applications.",
+        "01/2015",
+        "City , State"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [],
+    "category": "VR DESIGNER"
+}

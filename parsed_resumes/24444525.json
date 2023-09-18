@@ -1,0 +1,37 @@
+{
+    "skills": [
+        "Word",
+        "Operations",
+        "Scheduling",
+        "Excel",
+        "Consulting",
+        "Statistics",
+        "Certification",
+        "Training",
+        "Programming",
+        "Cpr",
+        "Sales",
+        "Fitness",
+        "Health",
+        "Design",
+        "Testing"
+    ],
+    "experience": [
+        "Monitored the academic performance of student-athletes in addition to their athletic progress.",
+        "Helped develop each participant's physical and psychological fitness.",
+        "Coordinated scheduling and field and facility use with the activities office."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master",
+            "Institution": "SPECIALIST\nSummary\nEnergetic Personal Trainer with educational background in Physical Education"
+        },
+        {
+            "Degree": "Bachelor in",
+            "Institution": "Sport"
+        }
+    ],
+    "category": "Personal Trainer"
+}

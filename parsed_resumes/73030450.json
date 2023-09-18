@@ -1,0 +1,50 @@
+{
+    "skills": [
+        "Design",
+        "Technical",
+        "Networking",
+        "Policies",
+        "Administration",
+        "Ios",
+        "Routing",
+        "Servers",
+        "Protocols",
+        "Documentation",
+        "Engineering",
+        "Electronics",
+        "Specifications",
+        "Cisco",
+        "Vmware",
+        "Logging",
+        "Analysis",
+        "Dhcp",
+        "Os",
+        "Migration",
+        "Visio",
+        "Lan",
+        "Content",
+        "Troubleshooting",
+        "Vendors",
+        "Security",
+        "Access"
+    ],
+    "experience": [
+        "knowledge of Load Balancers, Wireless networking, VMware and Data center management. Areas of expertise include designing manageable",
+        "networks, Threat prevention and Management, routing, switching, troubleshooting network performance issues and documentation."
+    ],
+    "company_names": [
+        "Cisco"
+    ],
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master's Degree",
+            "Institution": "NETWORK SECURITY ENGINEER"
+        },
+        {
+            "Degree": "Bachelor's Degree",
+            "Institution": "Professional Summary\nOverall"
+        }
+    ],
+    "category": "NETWORK SECURITY"
+}

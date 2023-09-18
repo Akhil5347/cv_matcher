@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "System",
+        "International",
+        "Architecture",
+        "Process",
+        "Teaching",
+        "Proposal",
+        "English",
+        "Contracts",
+        "Strategy",
+        "Legal",
+        "Technical",
+        "Engineering",
+        "Sops",
+        "Logistics",
+        "Sharepoint",
+        "Engagement",
+        "Reports",
+        "Security",
+        "Marketing",
+        "Programming",
+        "Tax",
+        "Biology",
+        "Travel",
+        "User experience",
+        "Audit",
+        "Money",
+        "Filing",
+        "Payments",
+        "Accounting",
+        "Budgeting",
+        "Human resources",
+        "Fda",
+        "Financing",
+        "Training",
+        "Healthcare",
+        "Sales",
+        "Finance",
+        "Standard operating procedures",
+        "Invoices"
+    ],
+    "experience": [
+        "improve performance and reliability of software's technical architecture.",
+        "Executive Assistant",
+        "January 2005 to January 2011 Company Name \u00ef\u00bc\u200b City , State",
+        "Collaborated on a Maryland-Ukraine Business Accelerator proposal designed to facilitate commercialization of innovative ideas from",
+        "Ukrainian entrepreneurs and act as catalyst for new product development."
+    ],
+    "company_names": null,
+    "total_experience": 6.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "Experience\nConsultant\n \nJanuary 2012\n \nCompany Name"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "City\n \n, \nState\nProvided programmatic and operational support for audit readiness engagement with the Defense Logistics"
+        }
+    ],
+    "category": "CONSULTANT Experience"
+}

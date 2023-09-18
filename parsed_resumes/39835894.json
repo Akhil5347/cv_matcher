@@ -1,0 +1,44 @@
+{
+    "skills": [
+        "Engineering",
+        "Training",
+        "Windows",
+        "Assembly",
+        "Mixer",
+        "Solaris",
+        "Data management",
+        "Migration",
+        "Linux",
+        "Analysis",
+        "Debugging",
+        "Design",
+        "Plan",
+        "Testing",
+        "Electronics",
+        "Schedule",
+        "Database",
+        "Project management",
+        "Process",
+        "Technical",
+        "Electrical"
+    ],
+    "experience": [
+        "The blocks that I worked in this project were for a product chip and hence the amount of learning was tremendous in this project.",
+        "The blocks were ready on time with good quality.",
+        "Senior Analog Layout Engineer , 10/2011 to 12/2012 Company Name",
+        "Member of Technical Staff , 06/2006 to 09/2011 Company Name"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "mba",
+            "Institution": "PROJECT MANAGER\nSummary\nEleven \nyears of experience in Analog, RF and Mixed Signal Layout Design at module and Chip levels for 180nm, 65nm, 45nm, 28nm TSMC,\n14FF Samsung \nfoundry and 10nm"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Experienced in planning, tracking and executing tasks to meet desired"
+        }
+    ],
+    "category": "PROJECT MANAGER"
+}

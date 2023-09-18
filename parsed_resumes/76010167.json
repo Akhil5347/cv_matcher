@@ -1,0 +1,35 @@
+{
+    "skills": [
+        "Word",
+        "Biology",
+        "Access",
+        "Excel",
+        "Physics",
+        "Communication",
+        "Database",
+        "French",
+        "Math",
+        "Powerpoint",
+        "Time management",
+        "Economics",
+        "English",
+        "Advertising",
+        "Sports",
+        "Visual",
+        "Design",
+        "Chemistry"
+    ],
+    "experience": [
+        "Designer , 02/2011 Company Name \u00ef\u00bc\u200b City , State",
+        "Designing a Jewelry collection for brides show."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Summary\nTo get a strong foothold on the career ladder by doing the best I can and more, with a company that supports teamwork and utilizes the abilities of\nits"
+        }
+    ],
+    "category": "MS Office"
+}

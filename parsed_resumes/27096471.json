@@ -1,0 +1,63 @@
+{
+    "skills": [
+        "Expenses",
+        "Employee engagement",
+        "System",
+        "Process",
+        "Improvement",
+        "Project management",
+        "Compliance",
+        "Sales",
+        "Strategy",
+        "Legal",
+        "Content",
+        "Vendor management",
+        "Consulting",
+        "Engagement",
+        "Administration",
+        "Risk management",
+        "Retention",
+        "Employee relations",
+        "Human resource",
+        "Iso",
+        "Communication",
+        "Staffing",
+        "Mock",
+        "Filing",
+        "Forecasting",
+        "Access",
+        "Budgeting",
+        "Payroll",
+        "Human resources",
+        "Policies",
+        "Outreach",
+        "Networking",
+        "Reporting",
+        "Training",
+        "Intranet",
+        "Budget",
+        "Finance",
+        "Health"
+    ],
+    "experience": [
+        "Participated in the development of the employee module for HR Intranet, which allowed employees to access HR policies and be informed",
+        "regarding important benefit and policy changes."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "Summary\nHuman Resource Professional"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Directs projects that\nimprove efficiency while meeting deadlines and budget"
+        },
+        {
+            "Degree": "MBA",
+            "Institution": "Human Resource"
+        }
+    ],
+    "category": "CONSULTANT Summary"
+}

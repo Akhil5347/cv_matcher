@@ -1,0 +1,30 @@
+{
+    "skills": [
+        "Word",
+        "Excel",
+        "Presentation",
+        "Policies",
+        "Teaching",
+        "Communication",
+        "Powerpoint",
+        "Compliance",
+        "English",
+        "Schedules",
+        "Testing"
+    ],
+    "experience": [
+        "English Teacher 08/2016 to 08/2017 Company Name City , State",
+        "Planned and implemented lessons increasing vocabulary and sentence structure for students.",
+        "Organized and participated in school activities and English camp for summer and winter vacation periods.",
+        "Created challenging and engaging lesson plans."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "TEACHER\nSummary\nWell organized, thorough, dedicated professional with documented success in undertaking various tasks and"
+        }
+    ],
+    "category": "ENGLISH TEACHER"
+}

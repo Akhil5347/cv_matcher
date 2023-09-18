@@ -1,0 +1,41 @@
+{
+    "skills": [
+        "Research",
+        "Editing",
+        "Presentation",
+        "Plan",
+        "Teaching",
+        "Communication",
+        "Writing",
+        "Networking",
+        "Psychology",
+        "Negotiation",
+        "Fitness"
+    ],
+    "experience": [
+        "YOGA INSTRUCTOR Aug 2012 to Current",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Teach movement and principles of yoga",
+        "Guide students through a variety of postures",
+        "Promote physical, mental and spiritual wellness",
+        "Demonstrate relaxation and breathing techniques",
+        "FIRST GRADE TEACHER Aug 2010 to Current",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Manage a classroom of 20-27 students daily",
+        "Plan and implement lessons based on common core standards",
+        "Utilize a variety of instructional strategies to incorporate all student learning styles and differentiate lessons accordingly"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master in",
+            "Institution": "INSTRUCTOR\nSummary\nCreative, warm professional with exceptional people skills and a strong ability to build"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Dedicated supporter of team"
+        }
+    ],
+    "category": "YOGA INSTRUCTOR"
+}

@@ -1,0 +1,27 @@
+{
+    "skills": [
+        "Content",
+        "Marketing",
+        "Training",
+        "Cpr",
+        "Sales",
+        "Fitness"
+    ],
+    "experience": [
+        "09/2013 to 03/2014",
+        "Fitness Consultant Company Name \u00ef\u00bc\u200b City , State",
+        "Conducted tours, and gave wellness advice to help every person change their lives.",
+        "Also, did outside marketing to help drive in business and conducted calls to prospective members.",
+        "08/2012 to 05/2013",
+        "DAEP/Special Education/Coach Company Name \u00ef\u00bc\u200b City , State"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master",
+            "Institution": "CONSULTANT\nExperience"
+        }
+    ],
+    "category": "Fitness Consultant"
+}

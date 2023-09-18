@@ -1,0 +1,32 @@
+{
+    "skills": [
+        "Sales",
+        "Presentation",
+        "Cad",
+        "Design",
+        "Merchandising",
+        "Sourcing",
+        "Scheduling",
+        "Budgeting",
+        "Magic",
+        "Technical",
+        "Budget",
+        "Mamba",
+        "Marketing",
+        "Partnership"
+    ],
+    "experience": null,
+    "company_names": null,
+    "total_experience": 0,
+    "education": [
+        {
+            "Degree": "mba Apparel",
+            "Institution": "MANAGER OF DESIGN"
+        },
+        {
+            "Degree": "Bachelor's",
+            "Institution": "Work History\nCompany Name"
+        }
+    ],
+    "category": "michellehong.squarespace.com Work"
+}

@@ -1,0 +1,48 @@
+{
+    "skills": [
+        "Reports",
+        "Database",
+        "Research",
+        "Security",
+        "Saas",
+        "Mobile",
+        "Operations",
+        "Health",
+        "Training",
+        "Process",
+        "Computer science",
+        "Cloud",
+        "Analysis",
+        "Communication",
+        "Information security",
+        "Cost reduction",
+        "Plan",
+        "Engineering",
+        "Technical",
+        "International",
+        "Instrumentation",
+        "Safety"
+    ],
+    "experience": [
+        "Security analysis",
+        "Risk analysis and mitigation",
+        "Administrative"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "TECHNOLOGY SPECIALIST\nExperience\nInformation Technology Specialist"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "Company Name"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "State\n \nBuild, implement or support electronic health records and other systems that store patient's"
+        }
+    ],
+    "category": "INFORMATION TECHNOLOGY"
+}

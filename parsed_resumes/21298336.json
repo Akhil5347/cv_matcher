@@ -1,0 +1,49 @@
+{
+    "skills": [
+        "Word",
+        "Engineering",
+        "Technical",
+        "Training",
+        "Design",
+        "Installation",
+        "Technical knowledge",
+        "Construction",
+        "Spreadsheets",
+        "Plan",
+        "Powerpoint",
+        "Excel",
+        "Autocad",
+        "Microsoft word",
+        "Transportation"
+    ],
+    "experience": [
+        "Company Name City , State Engineering Intern 05/2017 to 08/2017",
+        "Spreadsheets",
+        "Estimating",
+        "Dealt with Subcontractors/Suppliers",
+        "Plan Revisions",
+        "Company Name City , State Field Engineering Intern 05/2016 to 08/2016",
+        "Drill Logs",
+        "Time Cards",
+        "Drilled Shaft Concrete Pours",
+        "Quantities",
+        "Company Name City , State Field Engineering Intern 05/2015 to 08/2015",
+        "Spreadsheets",
+        "Concrete",
+        "RFI's",
+        "Soil Nail Wall Installation"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "master",
+            "Institution": "INTERN\nSummary\nMotivated Entry Level Civil Engineer with technical knowledge and a quality assurance mindset necessary to conquer unforeseen"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Organized"
+        }
+    ],
+    "category": "\u00c2 \u00c2"
+}

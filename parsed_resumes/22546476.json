@@ -1,0 +1,46 @@
+{
+    "skills": [
+        "Process",
+        "Cpr",
+        "Compliance",
+        "Construction",
+        "Plan",
+        "Safety",
+        "Technical",
+        "Reports",
+        "Certification",
+        "Regulations",
+        "Gunnery",
+        "Design",
+        "Operations",
+        "Requests",
+        "Training",
+        "Analysis",
+        "Supervisor",
+        "Health",
+        "Logbook"
+    ],
+    "experience": [
+        "Safety Manager",
+        "September 2015 Company Name \u00ef\u00bc\u200b City , State",
+        "Responsible for overall safety and compliance with local, state, and federal regulations on the project, to include subcontractors; project",
+        "includes one new build power substation, upgrades to 4 other substations, and construction of 13 miles of transmission lines.",
+        "Construction Manager",
+        "October 2013 to August 2015 Company Name \u00ef\u00bc\u200b City , State",
+        "Omaha Lead Project - soil sampling and preparation, community relations and site sketches.",
+        "Smalley Piper Project - oversight of water treatment plant construction (temporary)."
+    ],
+    "company_names": null,
+    "total_experience": 1.83,
+    "education": [
+        {
+            "Degree": "mba",
+            "Institution": "MANAGER\nSummary\nSafety Manager with 16 years construction management"
+        },
+        {
+            "Degree": "mba",
+            "Institution": "He is responsible for the safety compliance of the project and all"
+        }
+    ],
+    "category": "SAFETY MANAGER"
+}

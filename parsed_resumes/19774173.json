@@ -1,0 +1,36 @@
+{
+    "skills": [
+        "Accounting",
+        "Communication",
+        "Certification",
+        "Administration",
+        "Training",
+        "Programming",
+        "Filing",
+        "Sales",
+        "Fitness"
+    ],
+    "experience": [
+        "04/2016 to Current",
+        "Personal Trainer & Fitness Instructor Company Name - City , State",
+        "Suggested exercise modifications to individual students to avoid strain and.",
+        "injury.",
+        "Teach Circuit classes, Advanced Dance Fitness, and a Booty Builder class",
+        "06/2015 to 04/2016",
+        "Fitness Instructor Company Name - City , State",
+        "Taught Dance Fitness, Spin and Power.",
+        "Designed each class to match the skill and learning levels of all participants.",
+        "Cleaned and organized studio after each group fitness class.",
+        "03/2015 to 03/2016",
+        "Vista Representative Company Name - City , State"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "mba instructor",
+            "Institution": "ASSOCIATE\nObjective\nTo obtain a position with a growing company while promoting quality customer service and performing tasks provided"
+        }
+    ],
+    "category": "Current Personal"
+}

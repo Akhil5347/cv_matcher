@@ -1,0 +1,33 @@
+{
+    "skills": [
+        "Word",
+        "Electrical",
+        "Excel",
+        "Legal",
+        "Safety",
+        "Communication",
+        "Saws",
+        "Specifications",
+        "Spanish",
+        "Warehouse",
+        "Installation",
+        "Supervisor",
+        "Construction",
+        "Schedules",
+        "English"
+    ],
+    "experience": [
+        "01/2011 to Current",
+        "Construction Manager Company Name",
+        "Extensively trained in plumbing, carpentry, painting, plastering, machine servicing and installation.",
+        "Installed, repaired and rebuilt tile, brick and stone surfaces.",
+        "Documented daily equipment inspections and submitted daily inspection forms to supervisor.",
+        "Performed daily maintenance to the machines",
+        "Operated equipment safely and efficiently at all times.",
+        "Loaded proper materials while abiding by all safety and legal standards."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [],
+    "category": "CONSTRUCTION MANAGER"
+}

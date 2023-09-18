@@ -1,0 +1,50 @@
+{
+    "skills": [
+        "Sales",
+        "Banking",
+        "Finance",
+        "Forecasting",
+        "Economics",
+        "Modeling",
+        "Money",
+        "Operations",
+        "Analysis",
+        "Improvement",
+        "International",
+        "Accounting",
+        "Business plans",
+        "Account management",
+        "Calculus",
+        "Process",
+        "Legal",
+        "Marketing"
+    ],
+    "experience": [
+        "Company Name July 2009 Sales & Trading Intern",
+        "City , State",
+        "Worked directly with Senior Managing Directors and Associates of the firm assisting them with the introduction of their Prime Brokerage",
+        "Service, LCG Primeview.",
+        "Provided asset and market analysis, conducted cold calls and communicated directly with domestic and international high net worth clients.",
+        "Reviewed merger prospectuses and provided daily Current Events summaries.",
+        "Researched particular assets in order to help shape sales pitches for brokers.",
+        "Company Name July 2008 Investment Banking Intern",
+        "City , State",
+        "Worked directly with the Senior Managing Directors and Associates of the firm assisting their Senior Portfolio Managers with client relations",
+        "and account management.",
+        "Researched particular assets in order to help shape sales pitches for Associates.",
+        "Prepared business plans, a business pipeline, business summaries, and performed routine office tasks.",
+        "Attended Shareholder Meetings with Senior Managing Directors.",
+        "Company Name July 2007 Associate",
+        "City , State",
+        "Company Name July 2006 City , State"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "TRADING INTERN\nProfessional Summary"
+        }
+    ],
+    "category": "TRADING INTERN"
+}

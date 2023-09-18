@@ -1,0 +1,54 @@
+{
+    "skills": [
+        "Schedule",
+        "Technical",
+        "Cpr",
+        "Orange",
+        "Schedules",
+        "Database",
+        "Sports",
+        "Math",
+        "Aviation",
+        "Payments",
+        "Marketing",
+        "Hotel",
+        "Regulatory",
+        "Requests",
+        "Operations",
+        "Improvement",
+        "Inventory",
+        "Fulfillment",
+        "Responses",
+        "Budgeting",
+        "Invoices",
+        "Transport",
+        "Training",
+        "Expenses",
+        "P",
+        "Invoicing",
+        "System"
+    ],
+    "experience": [
+        "Aviation Supply Specialist",
+        "City , State Company Name / Aug 2017 to May 2021",
+        "Tracked, documented and updated the stock system with precise attention to detail and recordkeeping requirements.",
+        "Coordinated materials delivery to units world-wide.",
+        "Validated and processed requisitions for new unit supplies.",
+        "Assisted with unit budgeting by entering accurate purchase orders and tracking exact expenses.",
+        "Operated forklift to elevate or place merchandise in appropriate areas.",
+        "Communicated effectively with members of public in often crowded and noisy environments.",
+        "Received orders via phone, mail, fax and internet daily.",
+        "Coordinated shipping and receiving schedules with production to assist in traffic control on docks.",
+        "Packed over [Number] pounds of [Type] products daily while keeping detailed records of productivity and identifying areas for",
+        "improvement."
+    ],
+    "company_names": null,
+    "total_experience": 3.75,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "AVIATION SUPPLY SPECIALIST\nSummary\nAmbitious student pursuing Computer Science degree eager to contribute developed knowledge in"
+        }
+    ],
+    "category": "Computer Science"
+}

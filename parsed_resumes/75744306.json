@@ -1,0 +1,43 @@
+{
+    "skills": [
+        "Billing",
+        "Process",
+        "Improvement",
+        "Video",
+        "English",
+        "Word",
+        "Excel",
+        "Transportation",
+        "Troubleshooting",
+        "Writing",
+        "Administration",
+        "Customer service",
+        "Travel",
+        "Communication",
+        "Spanish",
+        "Design",
+        "Payments",
+        "Outsourcing",
+        "Policies",
+        "Requests",
+        "Intranet",
+        "Healthcare",
+        "Sales",
+        "Health"
+    ],
+    "experience": [
+        "Customer Service Representative Sep 2014 to Mar 2015",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Bilingual in Spanish",
+        "Proficient in reading and writing in spanish"
+    ],
+    "company_names": null,
+    "total_experience": 0.5,
+    "education": [
+        {
+            "Degree": "master",
+            "Institution": "SERVICE REPRESENTATIVE\nSummary\nMy favorite part of working is being able to interact with"
+        }
+    ],
+    "category": "Customer Service"
+}

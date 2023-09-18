@@ -1,0 +1,39 @@
+{
+    "skills": [
+        "Teaching",
+        "Process",
+        "Orange",
+        "Word",
+        "Research",
+        "Excel",
+        "Researching",
+        "Safety",
+        "Modeling",
+        "Writing",
+        "Reports",
+        "Powerpoint",
+        "Customer service",
+        "Communication",
+        "Math",
+        "Filing",
+        "Microsoft word",
+        "Interactive",
+        "Sales"
+    ],
+    "experience": [
+        "Teacher 08/2015 - Current Company Name City , State",
+        "Teaching all subjects to High School and Junior High,Coach for PE.",
+        "Lesson planning, grades, reports.",
+        "Kindergarten Teacher 01/2014 - Current Company Name City , State",
+        "Math 3 Hrs."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Willing to"
+        }
+    ],
+    "category": "Professional Summary"
+}

@@ -1,0 +1,69 @@
+{
+    "skills": [
+        "Banking",
+        "Recruiting",
+        "Safety",
+        "Policies",
+        "Staffing",
+        "Administration",
+        "Sales",
+        "Communication",
+        "Testing",
+        "Database",
+        "Information security",
+        "Payroll",
+        "Plan",
+        "Operations",
+        "Installation",
+        "Billing",
+        "Process",
+        "Cost reduction",
+        "Customer service",
+        "Content",
+        "Hardware",
+        "Transactions",
+        "Training",
+        "Security",
+        "System"
+    ],
+    "experience": [
+        "Software Support Specialist",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Evaluated system potential by testing compatibility of new programs with existing programs.",
+        "Maximized use of software by training users; interpreting instructions; answering questions.",
+        "Maintained system capability by testing computer components.",
+        "Assisted customer with installation of software and hardware.",
+        "Financial Foundations Associate",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Acquired and applies developing knowledge of products, services, and processes.",
+        "Recognized life events, understands member's needs and provides advice in order to deliver appropriate solutions to the member.",
+        "Handled basic billing inquiries focusing on \"One & Done\" philosophy.",
+        "Specific product knowledge includes Auto, Home, Renters, and Valuable Personal Property.",
+        "Assisted members with their online account.",
+        "Admission Representative",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Execute high volume of outbound phone calls.",
+        "Contacted students with computer issues.",
+        "Completed interview process with each prospective.",
+        "Follow-up regularly with student until start of classes.",
+        "Associate",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Handled inbound telephone inquiries from retirement plan participants.",
+        "Responded to client's requested for account maintenance and balance information.",
+        "Processed financial transactions.",
+        "Offered appropriate products and services."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "mba",
+            "Institution": "SUPPORT SPECIALIST\nProfessional Summary\nDedicated Customer Service Representative motivated to maintain customer satisfaction and contribute to company"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Skill Highlights\nStrong organizational skills\nEnergetic work attitude\nTelephone inquiries specialist\nCustomer service expert\nTelecommunication skills\nAdaptive team player\nActive listening skills\nSharp problem solver\nWork Experience\nSoftware Support Specialist\n \nCompany Name"
+        }
+    ],
+    "category": "SOFTWARE SUPPORT"
+}

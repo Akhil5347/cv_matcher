@@ -1,0 +1,28 @@
+{
+    "skills": [
+        "Teaching",
+        "Communication",
+        "Administration",
+        "Training",
+        "Fitness"
+    ],
+    "experience": [
+        "Created and ran up-to-date and relevant drills",
+        "Monitored the academic performance of student-athletes in addition to their athletic progress",
+        "Helped develop each participant's physical and psychological fitness",
+        "Maintained and updated attendance forms and insurance records"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "TEACHER\nSummary\nI am a highly motivated educator and"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "I am accountable and\nthorough with a history of sound"
+        }
+    ],
+    "category": "READING TEACHER"
+}

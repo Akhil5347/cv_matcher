@@ -1,0 +1,72 @@
+{
+    "skills": [
+        "Engineering",
+        "Ms project",
+        "Cross-functional team",
+        "Training",
+        "Solidworks",
+        "Product design",
+        "Safety",
+        "Security",
+        "Software engineering",
+        "Agile",
+        "Lean",
+        "Drafting",
+        "Proposal",
+        "Analysis",
+        "Data analysis",
+        "Mobile",
+        "Java",
+        "English",
+        "Matlab",
+        "Physics",
+        "Design",
+        "Hardware",
+        "System",
+        "Schedule",
+        "Visio",
+        "Technical",
+        "Budget",
+        "C++",
+        "Jira",
+        "Autocad",
+        "Architecture",
+        "Visual"
+    ],
+    "experience": [
+        "Company Name February 2010 to Current Systems Engineering Manager",
+        "City , State",
+        "Technical Program Manager for LCS Game Based Learning",
+        "Manage 63 Systems Engineers, Software Engineers, Test Engineers, Technical Artists and Game Developers",
+        "Responsible for budget, scope and schedule for $55M worth of training software development \u00c2",
+        "Led the setup of cross-functional team based development resulting in $12M+ cost savings \u00c2",
+        "Championed the engineering of an enterprise architecture that included a tool suite for game development that is being used on an enterprise",
+        "level",
+        "Technical point of contact for the US Navy ranging from product design to schedule and budget reviews \u00c2",
+        "Managed 5 subcontractors including budget, scope and schedule for each company",
+        "Technical Program Manager for Emirates Airlines Game Based Learning for Cabin Crews \u00c2",
+        "Manage 7 Systems Engineers, Software Engineers, Test Engineers, Technical Artists and Game Developers \u00c2",
+        "Piloted the evolution of a mobile based training platform to serve over 20,000 trainees on multiple mobile platforms",
+        "Lead Systems Engineer for LCS Mission Bay Trainer(MBT) Proposal",
+        "Led a cross functional team in the design of over $20M worth of heavy equipment replicating the Mission Bays of LCS 3 and LCS 4 \u00c2",
+        "Designed multimillion-dollar simulated Launch and Recovery Systems",
+        "Key contributor to proposal-pricing and estimating-efforts",
+        "System Engineer for Littoral Combat Ship(LCS) Curriculum Proposal",
+        "Developed architecture for training courseware for the LCS ships inclusive of 300M of software development \u00c2"
+    ],
+    "company_names": [
+        "Littoral Combat"
+    ],
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "mba",
+            "Institution": "ENGINEERING MANAGER\nSummary\nMultifaceted Technical Manager with a broad spectrum of experience and knowledge excelling at being a conduit between the technical domain\nand financial"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Proficient in numerous areas from hardware engineering, software engineering and subcontracts"
+        }
+    ],
+    "category": "SYSTEMS ENGINEERING"
+}

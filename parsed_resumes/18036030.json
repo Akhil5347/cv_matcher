@@ -1,0 +1,37 @@
+{
+    "skills": [
+        "Operations",
+        "Plan",
+        "Data entry",
+        "Communication",
+        "Workflow",
+        "Beverage",
+        "Reporting",
+        "Warehouse",
+        "Analysis",
+        "Training",
+        "Staffing",
+        "Metrics",
+        "Correspondence",
+        "Sales",
+        "Health"
+    ],
+    "experience": [
+        "Express Employment Professionals",
+        "City , State Company Name / Jan 2014 to May 2021",
+        "While working for this company i worked for fedex in halethorpe Md, Amazon, Dap, and Goetes candy company"
+    ],
+    "company_names": null,
+    "total_experience": 7.33,
+    "education": [
+        {
+            "Degree": "bachelor",
+            "Institution": "Gray\nSummary\nDiligently coordinates all warehouse activities to keep products moving quickly and meet continuous shipping"
+        },
+        {
+            "Degree": "bachelor",
+            "Institution": "Highly organized leader\nwith good program management and"
+        }
+    ],
+    "category": "Ashanique Gray"
+}

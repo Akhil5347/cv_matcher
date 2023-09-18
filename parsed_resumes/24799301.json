@@ -1,0 +1,34 @@
+{
+    "skills": [
+        "Administration",
+        "Accounting",
+        "Reporting",
+        "Training",
+        "System"
+    ],
+    "experience": [
+        "01/2009 to Current",
+        "Accountant Company Name \u00ef\u00bc\u200b City , State",
+        "Hired by their CPA firm to handle all accounting and job cost Reporting.",
+        "01/2007 to 01/2009",
+        "Accountant Company Name \u00ef\u00bc\u200b City , State",
+        "Hired by their CPA firm to handle all accounting functions..",
+        "01/1997 to 01/2007",
+        "Accountant Company Name \u00ef\u00bc\u200b City , State",
+        "Installed new Peachtree Accounting System.",
+        "Installed new computer system using a local area network and Added a Web site."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "master",
+            "Institution": "Summary\nAccountant for a Medium sized Company\nExperience"
+        },
+        {
+            "Degree": "master",
+            "Institution": "Current\nAccountant\n \nCompany Name"
+        }
+    ],
+    "category": "ACCOUNTANT Summary"
+}

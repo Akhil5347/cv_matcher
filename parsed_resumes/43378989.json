@@ -1,0 +1,79 @@
+{
+    "skills": [
+        "Technical issues",
+        "Java",
+        "Billing",
+        "Coding",
+        "Operating systems",
+        "System",
+        "Dns",
+        "Visio",
+        "C",
+        "Documentation",
+        "Mysql",
+        "Word",
+        "Oracle",
+        "Excel",
+        "Presentation",
+        "Sql server",
+        "Technical",
+        "E-commerce",
+        "Administration",
+        "Powerpoint",
+        "Programming",
+        "Information technology",
+        "Servers",
+        "Html",
+        "Jsp",
+        "Hardware",
+        "Windows",
+        "Communication",
+        "Database",
+        "Xml",
+        "C++",
+        "Design",
+        "Access",
+        "Sql",
+        "C#",
+        "Website",
+        "Javascript",
+        "Training",
+        "Cisco",
+        "Visual",
+        "Api"
+    ],
+    "experience": [
+        "Consultant Mar 2014 to May 2017",
+        "Company Name \u00ef\u00bc\u200b City , State",
+        "Provided object-oriented design, programming and implementation support to the customer Billing system written in Java Design database",
+        "system for e-commerce website with persistence EJB platform Prepared test plans and data, and user documentation for customer billing",
+        "system.",
+        "Problem-solved hardware issues with fault -tolerant hard drives.",
+        "Database Administrator Dec 2009 to Feb 2017",
+        "Company Name \u00ef\u00bc\u200b City , State Working with database management systems, determining and storing data. Identify user needs and set up new",
+        "computer database. Integrate data from outdated systems to new system.",
+        "Machinist, CNC Programmer Jun 2001 to Dec 2009",
+        "Company Name \u00ef\u00bc\u200b City , State Setup fixtures, program CNC machines for plumbing equipment"
+    ],
+    "company_names": null,
+    "total_experience": 18.83,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Summary"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Skilled in Database Administrator, Network\nAdministration, Web"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Providing Customer and"
+        },
+        {
+            "Degree": "Master's degree",
+            "Institution": "Help Desk"
+        }
+    ],
+    "category": "CONSULTANT Summary"
+}

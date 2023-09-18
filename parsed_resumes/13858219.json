@@ -1,0 +1,33 @@
+{
+    "skills": [
+        "Sales",
+        "Banking",
+        "Merchandising",
+        "Retail",
+        "Operations",
+        "Product quality",
+        "Customer service",
+        "Brand",
+        "Training"
+    ],
+    "experience": [
+        "Assistant Manager",
+        "February 2015 to Current Company Name \u00ef\u00bc\u200b City , State",
+        "Closing and opening store and all daily operations.",
+        "Loss prevention.",
+        "Banking and merchandising.",
+        "Assistant Manager",
+        "January 2013 to February 2015 Company Name \u00ef\u00bc\u200b City , State",
+        "Communicated information to customers about product quality, value and style.",
+        "Communicated merchandise needs and issues to appropriate supervisors in a timely fashion.",
+        "Completed floor replenishment to guarantee size availability and promote customer satisfaction.",
+        "Store Manager",
+        "January 2011 to January 2013 Company Name \u00ef\u00bc\u200b City , State",
+        "Educated customers on product and service offerings.",
+        "Offered exceptional customer service to differentiate and promote the company brand."
+    ],
+    "company_names": null,
+    "total_experience": 4.08,
+    "education": [],
+    "category": "ASSISTANT MANAGER"
+}

@@ -1,0 +1,46 @@
+{
+    "skills": [
+        "Email",
+        "Billing",
+        "System",
+        "Project management",
+        "Content",
+        "Engagement",
+        "Administration",
+        "Marketing",
+        "Schedule",
+        "Programming",
+        "Marketing materials",
+        "Schedules",
+        "Customer service",
+        "Communication",
+        "Microsoft office",
+        "Design",
+        "Scheduling",
+        "Payroll",
+        "Sales experience",
+        "Training",
+        "Supervisor",
+        "Sales",
+        "Fitness",
+        "Health"
+    ],
+    "experience": [],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master's of",
+            "Institution": "DIRECTOR\nProfessional Profile\nDedicated business professional with over seven years of experience in marketing and customer service in the fitness"
+        },
+        {
+            "Degree": "MBA",
+            "Institution": "Qualifications\nSuccessful sales experience \nCreative and resourceful Exceptional problem solving ability \nSuperior organization Strong leadership and\ncommunication skills \nProject management \nProficient with Microsoft Office and Outlook \nAbility to work in a team setting\nExperience\nFitness Director"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Current\n \nCompany Name\n \nCity\n \n, \nState\nManaged 20 full time staff and 40"
+        }
+    ],
+    "category": "FITNESS DIRECTOR"
+}

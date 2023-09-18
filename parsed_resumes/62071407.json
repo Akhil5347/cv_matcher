@@ -1,0 +1,50 @@
+{
+    "skills": [
+        "Engineering",
+        "Troubleshooting",
+        "Solidworks",
+        "Programming",
+        "Supervisor",
+        "Diesel",
+        "Conversion",
+        "Schedules",
+        "Instrumentation",
+        "Prototype",
+        "Analysis",
+        "Mobile",
+        "Scheduling",
+        "Mechanical engineering",
+        "Microsoft office",
+        "Design",
+        "Reports",
+        "Cad",
+        "Testing",
+        "Acquisition",
+        "System",
+        "Electronics",
+        "Process",
+        "Research",
+        "Budget",
+        "Installation",
+        "Electrical"
+    ],
+    "experience": [
+        "Mechanical Engineering Intern 05/2013 to 08/2014 Company Name State",
+        "Updated Piping and instrumentation drawings in Auto-Cad Performed failure analysis on process equipment and implemented new",
+        "maintenance schedules accordingly.",
+        "Project Manager for the following projects: Designed and implemented HVAC zone installation for main office and foyer."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "mba",
+            "Institution": "ENGINEERING INTERN\nSummary\nMechanical Engineer Professional offering 25 years of progressive experience within a manufacturing"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Experienced project manager that\nnegotiates prices for project, created and implemented"
+        }
+    ],
+    "category": "MECHANICAL ENGINEERING INTERN"
+}

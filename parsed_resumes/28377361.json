@@ -1,0 +1,33 @@
+{
+    "skills": [
+        "System",
+        "Transactions",
+        "Process",
+        "Retail",
+        "Safety",
+        "Technical",
+        "Security",
+        "Customer service",
+        "Coaching",
+        "Inventory",
+        "Communication",
+        "Payments",
+        "Operations",
+        "Ordering",
+        "Policies",
+        "Requests",
+        "Sales",
+        "Health",
+        "Visual"
+    ],
+    "experience": null,
+    "company_names": null,
+    "total_experience": 0,
+    "education": [
+        {
+            "Degree": "Master",
+            "Institution": "ASSOCIATE\nProfessional Summary\nFood service worker with fast food, retail and customer service"
+        }
+    ],
+    "category": "ASSOCIATE Professional"
+}

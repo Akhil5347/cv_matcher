@@ -1,0 +1,43 @@
+{
+    "skills": [
+        "Tax",
+        "Research",
+        "Regulations",
+        "Scheduling",
+        "Mobile",
+        "System",
+        "Travel",
+        "Outreach",
+        "Process",
+        "Reports",
+        "Training",
+        "Audit",
+        "Advertising",
+        "Filing",
+        "Budget",
+        "Fitness"
+    ],
+    "experience": [
+        "Group Exercise Fitness Instructor 03/2009 to Current Company Name City , State",
+        "Instruct group exercise classes to help strengthen and tone body",
+        "Demonstrate the correct way to use exercise equipment",
+        "Administrator Support Assistant II 09/2005 to 03/2006 Company Name City , State",
+        "Verified that Information reported on tax returns adheres to applicable tax laws and regulations",
+        "Maintained accurate filing system of tax related documents",
+        "Updated tax returns made during audit process",
+        "Transferred important documents to the appropriate department when requested.",
+        "Administrator Support Assistant II 11/2003 to 04/2004 Company Name City , State",
+        "Planned and scheduled meetings, conferences, teleconferences, and travel",
+        "Answered or directed inquiries",
+        "Maintained taxpayer confidentiality"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "EXERCISE FITNESS INSTRUCTOR\nBackground, Objective\nHighly seasoned and dedicated mentor with a distinguished reputation of providing outstanding service to the community with a strong capacity to\ndevelop quality programs and provide supervised guidance for program staff and participants to guarantee successful"
+        }
+    ],
+    "category": "GROUP EXERCISE"
+}

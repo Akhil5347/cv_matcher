@@ -1,0 +1,43 @@
+{
+    "skills": [
+        "Plan",
+        "Design",
+        "Website",
+        "Installation",
+        "Writing",
+        "Windows",
+        "International",
+        "Interactive",
+        "Radar",
+        "Word",
+        "Construction",
+        "Photoshop",
+        "System",
+        "Visual"
+    ],
+    "experience": [
+        "Visual Arts Teacher 02/2011 to 05/2014 Company Name City , State",
+        "Challenged and motivated students through in-depth lectures and discussions. Lectured and communicated effectively with students from"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master Teacher",
+            "Institution": "ARTS TEACHER\nSummary\nArt education professional"
+        },
+        {
+            "Degree": "Master Teacher",
+            "Institution": "Strives to create a challenging and engaging\nlearning environment in which students become"
+        },
+        {
+            "Degree": "Master of",
+            "Institution": "Highlights\nRated Master Teacher\nNAEA member"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Committed to cultivating student leadership\nExcellent classroom management"
+        }
+    ],
+    "category": "Summary Art"
+}

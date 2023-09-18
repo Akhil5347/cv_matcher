@@ -1,0 +1,44 @@
+{
+    "skills": [
+        "Troubleshooting",
+        "Safety",
+        "Immigration",
+        "Economics",
+        "English",
+        "Operations",
+        "Engineering",
+        "Mechanical engineering",
+        "Quality control",
+        "Calculus",
+        "Aviation",
+        "Ordering",
+        "Electrical",
+        "Training"
+    ],
+    "experience": [
+        "Aircraft engines",
+        "Auxiliary power units",
+        "Propellers & rotor systems",
+        "Power train systems, and associated airframe and systems-specific electrical components",
+        "Maintaining and repairing aircraft fuselages",
+        "Wings, rotor blades, fixed and movable flight control surfaces",
+        "Bleed aircraft air, hydraulic, and fuel systems"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "master",
+            "Institution": "MAINTENANCE TECHNICIAN\nProfile"
+        },
+        {
+            "Degree": "master",
+            "Institution": "Aviation Maintenance Technician with"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Professional Experience\nAviation Maintenance Technician\n \nMay 2010\n \nto \nJuly 2014\n \nCompany Name"
+        }
+    ],
+    "category": "AVIATION MAINTENANCE"
+}

@@ -1,0 +1,52 @@
+{
+    "skills": [
+        "Sales",
+        "Design",
+        "Coaching",
+        "Psychology",
+        "Fda",
+        "Healthcare",
+        "Consulting",
+        "Budget",
+        "Alliances",
+        "Reports",
+        "Retention",
+        "Customer service",
+        "Service delivery",
+        "Training",
+        "Governance"
+    ],
+    "experience": [
+        "January 2006 to Current",
+        "Company Name City , State ORGANIZATION DEVELOPMENT CONSULTANT",
+        "Consulted with the CA Public Utility Commission (PUC) Executive Director and Senior Team to design and deliver an initiative to engage",
+        "800 employees in organization wide culture change.",
+        "Work included interviewing executive staff, designing and facilitating meetings, coaching executive staff.",
+        "The cultural shift from hierarchical to participative enabled the PUC to compete in the de-regulated environment.",
+        "Designed and delivered, with a team of four consultants, an initiative to provide Appreciative Inquiry as an innovative method to improve all",
+        "aspects of service delivery to county residents.",
+        "The initiative culminated in a one-day conference for 400 Sacramento County employees in order to practice new skills.",
+        "Project teams established to lead the implementation of Appreciative Inquiry throughout the organization.",
+        "Co-authored County of Sacramento, Book of Success.",
+        "Facilitated, with a team of 40 colleagues, controversial group discussions for NYC Citizen's Budget Commission planning session attended",
+        "by 600 participants.",
+        "Issues successfully prioritized which set the stage for Commissioner's use in decision making for upcoming budget.",
+        "Designed and implemented an innovative 8-week job search training program which increased placement by 20% for training organization.",
+        "January 2004 to January 2006",
+        "Company Name City , State STAFF LIAISON",
+        "Established the County's first youth center by forging alliances between internal and external stakeholders."
+    ],
+    "company_names": null,
+    "total_experience": 2.0,
+    "education": [
+        {
+            "Degree": "Master of",
+            "Institution": "DEVELOPMENT CONSULTANT\nExecutive Profile\nProven business leader with extensive consulting"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Award winning Executive Coach with over 15 years of experience as an internal and\nexternal Organization Development"
+        }
+    ],
+    "category": "JFK University"
+}

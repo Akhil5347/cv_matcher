@@ -1,0 +1,41 @@
+{
+    "skills": [
+        "Purchasing",
+        "Teaching",
+        "Spreadsheets",
+        "Excel",
+        "Presentation",
+        "Hotel",
+        "Reports",
+        "Vendors",
+        "Cuisine",
+        "Coaching",
+        "Inventory",
+        "Specifications",
+        "Staffing",
+        "Money",
+        "Quality control",
+        "Design",
+        "Operations",
+        "Scheduling",
+        "Ordering",
+        "Requests",
+        "Training",
+        "Budget",
+        "Health"
+    ],
+    "experience": null,
+    "company_names": null,
+    "total_experience": 0,
+    "education": [
+        {
+            "Degree": "MASTER SAUCIER",
+            "Institution": "CHEF\nProfessional Summary\nI have honed my professional craft by working in New York City (most recently Gastro Arte and Oxford Kitchen Fort Greene Brooklyn),\nHoboken, Oaxaca Mexico, as well as presiding over two top rated, highly coveted award winning well known extremely high volume Knowles\nfamily restaurants and hotel in New Jersey in which my skills were perfected and completed in all aspects of running award winning"
+        },
+        {
+            "Degree": "Master",
+            "Institution": "With this comes a proven track record and an excellent reputation"
+        }
+    ],
+    "category": "Professional Summary"
+}

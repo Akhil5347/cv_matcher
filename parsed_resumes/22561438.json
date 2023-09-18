@@ -1,0 +1,33 @@
+{
+    "skills": [
+        "Inventory",
+        "Ordering",
+        "French",
+        "Training",
+        "Cuisine"
+    ],
+    "experience": [
+        "04/2016 to Current",
+        "Chef De Cuisine Company Name",
+        "Developed seasonal menu",
+        "Maintained quality of food while constantly keeping a low food cost",
+        "In charge of inventory/ordering",
+        "Responsible for hiring and firing of employees\u00c2",
+        "Trained all new employees to uphold our standards",
+        "09/2014 to 04/2016",
+        "Chef de Cuisine Company Name",
+        "Assisted in seasonal menu development.",
+        "In charge of inventory/ordering.",
+        "Fabricating proteins.",
+        "Handmade pastas daily.",
+        "01/2014 to 09/2014",
+        "Sous Chef Company Name",
+        "Ran lunch service and Worked all stations for dinner in busy 300-400-person restaurant.",
+        "In charge of inventory and ordering.",
+        "Responsible for fabricating all proteins"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [],
+    "category": "CHEF DE"
+}

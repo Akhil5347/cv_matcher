@@ -1,0 +1,44 @@
+{
+    "skills": [
+        "Engineering",
+        "Health",
+        "International",
+        "Analysis",
+        "Mechanical engineering",
+        "Experiments",
+        "Physics",
+        "Design",
+        "Reports",
+        "Fabrication",
+        "Cad",
+        "Acquisition",
+        "System",
+        "Standardization",
+        "Process",
+        "Research",
+        "Experimental",
+        "C",
+        "Documentation",
+        "Investigation"
+    ],
+    "experience": [
+        "WASHINGTON.",
+        "Research Assistant",
+        "January 2008 to Current City , State",
+        "Project: \"A NEW INTEGRATED ENDOSCOPE SYSTEM\" Developed a full MEMS fabrication process of a mechanical resonance",
+        "based scanning device.",
+        "Integrated with Laser and fiber optics to enable in 2D micro-displays scanning system Setup benchtop spin coater (SCS 6800) and sputter",
+        "(Denton Desk V) in lab.",
+        "Graduate Researcher",
+        "January 2003 to January 2005 Company Name \u00ef\u00bc\u200b City"
+    ],
+    "company_names": null,
+    "total_experience": 2.0,
+    "education": [
+        {
+            "Degree": "PhD cleanroom",
+            "Institution": "ENGINEERING INTERN\nProfile\nPhD cleanroom expert looking for an opportunity to work as a"
+        }
+    ],
+    "category": "Lam Research"
+}

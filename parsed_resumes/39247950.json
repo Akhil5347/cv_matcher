@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "Banking",
+        "Technical",
+        "Reporting",
+        "Data analysis",
+        "Html",
+        "Sales",
+        "Servers",
+        "Operating systems",
+        "Communication",
+        "Testing",
+        "Database",
+        "Javascript",
+        "Windows",
+        "Engineering",
+        "Electronics",
+        "C",
+        "Presentation",
+        "Requests",
+        "Analysis",
+        "Sql",
+        "Pl/sql",
+        "Cloud",
+        "Unix",
+        "Asp",
+        "Vendors",
+        "Oracle",
+        "Css",
+        "Reports",
+        ".net",
+        "Training",
+        "Itil",
+        "C#",
+        "Sql server",
+        "Programming",
+        "System",
+        "Visual"
+    ],
+    "experience": [
+        "implementation of cost effective valueadds Designed and developed webbased tools in ASP .NET 3.5, using the programming and C#",
+        "PL/SQL procedural languages namely and Enhanced EBusiness applications and managed technological issues by analyzing codes and",
+        "providing customizable solutions using SQL and Business Objects XI 3.1 tools Awarded for outstanding performance and ontime delivery"
+    ],
+    "company_names": [
+        "Oracle"
+    ],
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "ENGINEER\nQualifications"
+        }
+    ],
+    "category": "SOFTWARE ENGINEER"
+}

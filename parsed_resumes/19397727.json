@@ -1,0 +1,58 @@
+{
+    "skills": [
+        "Engineering",
+        "Troubleshooting",
+        "Assembly",
+        "Safety",
+        "Diesel",
+        "Root cause",
+        "Communication",
+        "Mobile",
+        "Schematics",
+        "Design",
+        "Reports",
+        "Fabrication",
+        "Testing",
+        "Acquisition",
+        "System",
+        "Electronics",
+        "Database",
+        "Installation",
+        "Controls",
+        "Electrical",
+        "Requests"
+    ],
+    "experience": [
+        "Engineering Technician III 07/2013 to Current Company Name City , State",
+        "Responsible for all Test Equipment Maintenance on-site to include Production, Repair & Overhaul, Engineering and Environmental labs.",
+        "Responds to test equipment Service requests through the TESR/TPM system.",
+        "Works closely with Engineering, Electricians, Facilities, and Metrology to resolve issues.",
+        "Areas of responsibility include Electrical Power Generation, Cabin Pressure, Fuel/Advance Controls and Sensors, Electronics, and",
+        "Environmental Labs.",
+        "Troubleshoots down to the component level and resolve root cause.",
+        "Troubleshooting/repairing pneumatic pressure and vacuum systems.",
+        "Generator Test Technician III 08/1999 to 07/2013 Company Name City , State",
+        "Setup and perform functional acceptance testing of aircraft and ground power generators using manual and automated test equipment in",
+        "accordance with applicable test procedures. Record test data and accept or reject units through the use of functional test stamps.",
+        "Responsible for troubleshooting test failures to the component level. Also performs various assembly processes when required. Works with",
+        "various and specialized test equipment such as volt meters, ohm meters, power meters, dielectric testers, etc. Completes trouble reports and",
+        "yield tracking logs. Other duties include safety representative and Metrology coordinator for department. E.S.D. certified and meets ISO-",
+        "9001 standards and requirements.",
+        "Unmanned Aerial Vehicle (UAV) Maintenance Technician 02/1998 to 08/1999 Company Name City , State",
+        "Performed airframe and power plant maintenance on forward observing reconnaissance aircraft. Maintained engine proficiency by adjusting",
+        "valves, ignition points, and performed highly advanced computer aided diagnostic testing. Inspected airframes for structural damage and"
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "master",
+            "Institution": "TECHNICIAN III\nSummary\nEngineering Technician with an extensive troubleshooting, repair, and installation"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Thorough knowledge of Electrical, Mechanical,\nPneumatic and computer"
+        }
+    ],
+    "category": "Summary Engineering"
+}

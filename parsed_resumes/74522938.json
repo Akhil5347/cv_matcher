@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "Controls",
+        "Recruitment",
+        "Supervising",
+        "Purchasing",
+        "Compliance",
+        "English",
+        "Sports",
+        "Presentation",
+        "Safety",
+        "French",
+        "Reports",
+        "Schedules",
+        "Certification",
+        "Cuisine",
+        "Coaching",
+        "Inventory",
+        "Presentations",
+        "Specifications",
+        "Spanish",
+        "Staffing",
+        "Recruiting",
+        "Design",
+        "Operations",
+        "Scheduling",
+        "Budgeting",
+        "Ordering",
+        "Policies",
+        "Requests",
+        "Beverage",
+        "Training",
+        "Budget"
+    ],
+    "experience": [
+        "cook, line chef, and sous chef.",
+        "Energetic culinary professional with a blend of creativity, passion for food and exceptional cooking skills. Works well as a dynamic leader in high-",
+        "pressure settings.",
+        "Bilingual Chef\u00c2 with 20\u00c2  years in cooking, hiring and training staff, creating schedules and managing labor costs.",
+        "Executive Chef possessing an innate skill in creating exceptional menu items. Leads productive working environments that attract top-notch talent."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Bachelor of",
+            "Institution": "CHEF\nProfessional Summary\nExecutive Chef"
+        },
+        {
+            "Degree": "Master Degree.",
+            "Institution": "American, Mexican, Asian, French and"
+        }
+    ],
+    "category": "CHEF Professional"
+}

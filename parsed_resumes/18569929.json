@@ -1,0 +1,56 @@
+{
+    "skills": [
+        "Billing",
+        "Accounting",
+        "Reconcile",
+        "System",
+        "Excel",
+        "Acquisitions",
+        "Sales",
+        "Transactions",
+        "Documentation",
+        "Expenses",
+        "Word",
+        "General ledger",
+        "Contracts",
+        "Payroll",
+        "Process",
+        "Journal entries",
+        "Consulting",
+        "Reports",
+        "Windows",
+        "Invoices",
+        "Banking",
+        "Marketing",
+        "Programming",
+        "Deposits",
+        "Payments",
+        "Quickbooks"
+    ],
+    "experience": [
+        "Payroll Accountant 07/2006 to Current Company Name City , State",
+        "Answered employee questions regarding pay and resolved any issues and discrepancies",
+        "Advised managers on organizational policy matters and recommend needed changes..",
+        "Processed and submitted Teacher Retirement reports and payments",
+        "Updated confidential employee banking information with accuracy and speed",
+        "Ran the monthly and bi-weekly payroll process.",
+        "Reviewed salary changes stemming from merit increases, promotions, and pay adjustments.",
+        "Accountant 04/2002 to 06/2006 Company Name City , State",
+        "Verified details of transactions, including funds received and total account balances.",
+        "Coded the general ledger and processed vendor invoice payments.",
+        "Deposited third party checks, as well as monthly reserve transfers."
+    ],
+    "company_names": null,
+    "total_experience": 0.0,
+    "education": [
+        {
+            "Degree": "Master",
+            "Institution": "ACCOUNTANT\nSummary\nSixteen years experience reconciling the general ledger system, four years experience in accounts payable and eleven years experience in accounts"
+        },
+        {
+            "Degree": "Bachelor of",
+            "Institution": "Good organizational skills and detailed"
+        }
+    ],
+    "category": "PAYROLL ACCOUNTANT"
+}
