@@ -1,6 +1,6 @@
 # cv_matcher
 ## Description about files:
-. `data-list of resumes downloaded from Kaggle resume dataset`.
+1. `data/data`-list of resumes downloaded from Kaggle resume dataset.<br>
 2. `parsed_resumes` - Extracted JSON data from CV PDFs using pyPDF2 and pyreparser.<br>
 3. `job_description_records` - Extracted JSON data of job descriptions from the Huggingface dataset (as prescribed).<br>
 4. `res.py` - A Python script to extract details like skills and experience from PDFs.<br>
