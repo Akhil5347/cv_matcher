@@ -19,6 +19,22 @@ In some cases, Pyresparser may not extract education details as accurately as re
 
 2. `SentenceTransformer` - A versatile Python library that allows you to obtain embeddings for sentences or entire documents. It leverages pre-trained models to represent text data as dense vectors. One of the models I've used is `paraphrase-MiniLM-L6-v2`, which is particularly effective for various natural language processing tasks.
 
+## Steps to run the run the project:
+1. Install the requirements:
+```
+pip install -r requirements.txt
+```
+2. Run the res.py file:<br>
+```
+python res.py
+```
+3. Run the data_gather.py file:<br>
+```
+python data_gather.py
+```
+4. Run the `Embedding_and_similarity.ipynb` file.
+
+
 
 
 
