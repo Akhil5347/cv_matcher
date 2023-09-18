@@ -1,10 +1,9 @@
 # cv_matcher
 ## Description about files:
-data/data-list of resumes downloaded from kaggle resume dataset<br>
-parsed_resumes- extracted json data from cv pdf's using pyPDF2 and pyreparser.<br>
-job_description_records- extracted json data of job descriptions from Huggingface dataset(prescribed).<br>
-res.py-python script to extract the details like skills, experience from pdfs.<br>
-data_gather.py- python script to obtain 15 jobdescriptions from huggingface dataset.<br>
-parsed_resume.json- sample json file describing about extraccted data of a single cv pdf.<br>
-Embedding_and_similarity.ipynb- ipynb file that used for Tokenizing and performing embeddings on the json files obtained and the cosine similarities too.<br>
-
+. `data-list of resumes downloaded from Kaggle resume dataset`.
+2. `parsed_resumes` - Extracted JSON data from CV PDFs using pyPDF2 and pyreparser.<br>
+3. `job_description_records` - Extracted JSON data of job descriptions from the Huggingface dataset (as prescribed).<br>
+4. `res.py` - A Python script to extract details like skills and experience from PDFs.<br>
+5. `data_gather.py` - A Python script used to obtain 15 job descriptions from the Huggingface dataset.<br>
+6. `parsed_resume.json` - A sample JSON file describing the extracted data from a single CV PDF.<br>
+7. `Embedding_and_similarity.ipynb` - An IPython Notebook file used for tokenizing, performing embeddings on the obtained JSON files, and calculating cosine similarities.<br>
