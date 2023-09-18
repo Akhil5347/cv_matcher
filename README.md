@@ -10,11 +10,11 @@
 ## Models and tools utilized:
 1. `Pyresparser`- A Python library for parsing and extracting information from resumes (CVs). It's a powerful tool designed to efficiently extract essential details from resumes, including:<br>
 
-Candidate's name<br>
-Contact information<br>
-Skills<br>
-Work experience<br>
-Educational background<br>
+    Candidate's name<br>
+    Contact information<br>
+    Skills<br>
+    Work experience<br>
+    Educational background<br>
 In some cases, Pyresparser may not extract education details as accurately as required. To address this limitation, we've included custom code to concurrently extract education details in the desired format.
 
 2. `SentenceTransformer` - A versatile Python library that allows you to obtain embeddings for sentences or entire documents. It leverages pre-trained models to represent text data as dense vectors. One of the models I've used is `paraphrase-MiniLM-L6-v2`, which is particularly effective for various natural language processing tasks.
